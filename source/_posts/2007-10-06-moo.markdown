@@ -1,0 +1,19 @@
+---
+author: DarkWulf
+comments: true
+date: 2007-10-06 23:26:42
+layout: post
+slug: moo
+title: Moo.
+wordpress_id: 12
+categories:
+- Branding
+---
+
+In case you haven't noticed, there's a link titled "Moo" in the footer. Long long ago, Andrew put it in while he was designing the layout. We left it in (by accident), and I really liked it.
+
+I think sites are more fun when the people who make them have fun. I hate it when companies worry so much about public relations that it sucks all the personality and honesty out of their products. When people look at Wejoinin, it'd be great if people would be able to say "yah, it looks like they had fun making it".
+
+Because if there's anything I like more than being awesome, it's having fun. And "porkbuns initiative"? We're about that too.
+
+![porkbuns? tastier than steak!](http://www.wejoinin.com/images/moo.gif)
