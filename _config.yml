@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://blog.wejoinin.com
+url: http://porkbuns.github.io/blog.wejoinin.com
 title: Wejoinin Blog
 subtitle: "The latest scoop from your friends at <a href='http://www.wejoinin.com'>Wejoinin</a>"
 author: Porkbuns Initiative
@@ -16,7 +16,7 @@ description: "A blog containing thoughts and news posts about the Wejoinin signu
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: /blog.wejoinin.com/atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
@@ -26,10 +26,10 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /
+root: /blog.wejoinin.com
 permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public
+destination: public/blog.wejoinin.com
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
