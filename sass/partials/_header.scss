@@ -1,20 +1,18 @@
 body > header {
   margin: 0 auto;
-  min-height: 200px;
   background: $header-bg;
   text-align: center;
   h1 {
     display: inline-block;
     margin: 0;
     a, a:visited, a:hover {
-      color: $gray;
       text-decoration: none;
     }
   }
   h2 {
     margin: .2em 0 0;
     @extend .sans;
-    font-size: 1em;
+    font-size: .7em;
     color: $subtitle-color;
     font-weight: normal;
   }

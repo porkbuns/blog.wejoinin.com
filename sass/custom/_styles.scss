@@ -1,2 +1,9 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+// WEJOININ THEME
+$wejoinin-bg0: rgb(189, 223, 248);
+$wejoinin-bg1: rgb(218, 232, 242);
+html {
+  @include background-image(linear-gradient($wejoinin-bg0, $wejoinin-bg1));
+}
