@@ -19,6 +19,12 @@ $link-color-hover: $darkBrick !default;
 $link-color-visited: $yellow;
 $link-color-active: $yellow;
 
+// Header Link Colors
+$header-link-color: $yellow;
+$header-link-color-hover: lighten($header-link-color, 10%);
+$header-link-color-visited: $yellow;
+$header-link-color-active: $yellow;
+
 // Main Section Colors
 $main-bg: #f8f8f8 !default;
 $page-bg: #252525 !default;
@@ -29,7 +35,7 @@ $header-border: lighten($header-bg, 15) !default;
 $subtitle-color: #222 !default;
 
 $text-color: #222 !default;
-$text-color-light: #aaa !default;
+$text-color-light: #FFF !default;
 $type-border: #ddd !default;
 
 /* Navigation */

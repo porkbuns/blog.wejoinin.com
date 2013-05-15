@@ -27,7 +27,7 @@ email:
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /
-permalink: /blog/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
 source: source
 destination: public
 plugins: plugins
@@ -73,7 +73,7 @@ twitter_user: wejoinin
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
@@ -91,10 +91,10 @@ delicious_count: 3
 
 # Disqus Comments
 disqus_short_name: wejoininblog
-disqus_show_comment_count: true
+disqus_show_comment_count: false
 
 # Google Analytics
 google_analytics_tracking_id: "UA-2330913-11"
 
 # Facebook Like
-facebook_like: false
+facebook_like: true

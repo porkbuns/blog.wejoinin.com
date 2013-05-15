@@ -2,10 +2,13 @@ body > header {
   margin: 0 auto;
   background: $header-bg;
   text-align: center;
+  a {
+    @include link-colors($header-link-color, $hover: $header-link-color-hover, $focus: $header-link-color-hover, $visited: $header-link-color-visited, $active: $header-link-color-active);
+  }
   h1 {
     display: inline-block;
     margin: 0;
-    a, a:visited, a:hover {
+    a {
       text-decoration: none;
     }
   }
