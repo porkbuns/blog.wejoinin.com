@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Business | Wejoinin Blog]]></title>
+  <link href="http://porkbuns.github.io/blog/blog/categories/business/atom.xml" rel="self"/>
+  <link href="http://porkbuns.github.io/blog/"/>
+  <updated>2016-03-07T20:52:35-08:00</updated>
+  <id>http://porkbuns.github.io/blog/</id>
+  <author>
+    <name><![CDATA[Porkbuns Initiative]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Thanks for your feedback!]]></title>
+    <link href="http://porkbuns.github.io/blog/2008/09/29/thanks-for-your-feedback/"/>
+    <updated>2008-09-29T16:34:28-07:00</updated>
+    <id>http://porkbuns.github.io/blog/2008/09/29/thanks-for-your-feedback</id>
+    <content type="html"><![CDATA[<p>Lately, Hsiu-Fan, Jason and I have been getting lots of emails from our users telling us things from &ldquo;I think your site is awesome!&rdquo; to &ldquo;Something totally broke!&rdquo; We love it!</p>
+
+<p>While it&rsquo;s no secret that fixing broken things is nothing to cheer about, I&rsquo;ve been surprised in the past couple of months at just how much I love having interactions with you all. I love that what we do makes a difference in your lives. I love that you care enough to tell us why something isn&rsquo;t working. Many of you even offer us suggestions to make Wejoinin a little friendlier, and we certainly do take everything into serious consideration.</p>
+
+<p>Hsiu-Fan and I get the warm fuzzies when we get small compliments from &ldquo;this is really useful&rdquo; to big ones like &ldquo;thanks, you guys seriously saved my life!&rdquo; Well, shucks.</p>
+
+<p>This is also to encourage you to email us (<a href="&#109;&#97;&#x69;&#x6c;&#116;&#x6f;&#58;&#97;&#110;&#100;&#114;&#101;&#x77;&#64;&#x77;&#101;&#106;&#x6f;&#x69;&#110;&#105;&#x6e;&#46;&#x63;&#111;&#x6d;">&#97;&#110;&#100;&#x72;&#x65;&#119;&#x40;&#119;&#x65;&#x6a;&#111;&#x69;&#x6e;&#105;&#110;&#46;&#99;&#x6f;&#109;</a> / <a href="&#x6d;&#x61;&#x69;&#x6c;&#116;&#x6f;&#x3a;&#x68;&#x73;&#105;&#117;&#102;&#97;&#110;&#x40;&#x77;&#101;&#x6a;&#111;&#105;&#x6e;&#105;&#110;&#46;&#x63;&#111;&#109;">&#x68;&#115;&#105;&#117;&#102;&#x61;&#x6e;&#x40;&#119;&#101;&#106;&#x6f;&#x69;&#110;&#x69;&#x6e;&#46;&#99;&#111;&#x6d;</a>) should you find something really wonky or if you&rsquo;re discovering weird behavior on your sheet or if our sheets are being terribly confusing to you (we&rsquo;ll do our best to make them behave).</p>
+
+<p>Once again, a warm and hearty &ldquo;thanks!&rdquo; from your friends here at Wejoinin,
+-Andrew</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Getting started (again) and getting excited]]></title>
+    <link href="http://porkbuns.github.io/blog/2008/04/21/getting-started-again-and-getting-excited/"/>
+    <updated>2008-04-21T10:11:48-07:00</updated>
+    <id>http://porkbuns.github.io/blog/2008/04/21/getting-started-again-and-getting-excited</id>
+    <content type="html"><![CDATA[<p>All&rsquo;s been quiet here among us at Wejoinin for the past couple months or so. Hsiu-Fan and I have been cranking away in our respective classes and haven&rsquo;t quite gotten the time to get in some work on this application.</p>
+
+<p>However, we&rsquo;re <em>really</em> thankful to those of you who use this site and continue to inform us of broken things and give us suggestions and even tell your friends!</p>
+
+<p>I&rsquo;ve <a href="http://blog.andrewhao.com/2008/03/11/could-i-be-an-entrepreneur/">written a little bit about how I&rsquo;m taking an entrepreneurship class</a> here at UC Berkeley in the <a href="http://cet.berkeley.edu">Center for Entrepreneurship and Technology</a>. I&rsquo;ve definitely been thinking in the past few weeks about how we can take this idea to the rest of the world, one signup at a time.</p>
+
+<p>In class, we&rsquo;ve had industry big shots come in and talk a lot about ideation, marketing, distribution strategies, acquiring funding and the like. It&rsquo;s been an eye-opening whirlwind of learning for me.</p>
+
+<p>And even though all this talk about starting a business is dandy, I can&rsquo;t help but feel this greater desire to <em>build something really sweet</em>. Today we had <a href="http://www.pbwiki.com">PBWiki</a> founder David Weekly in class talking about his experience starting the project on his own. And if you&rsquo;ve heard it once, you need to hear it again: <em>It doesn&rsquo;t matter how cool your technology is. All that matters is that you can solve somebody&rsquo;s problem, really really well.</em></p>
+
+<p>So let&rsquo;s do that. After staying dormant for a while, we think it&rsquo;s time to keep Wejoinin moving forward. Last month, we added a friend and developer <a href="http://www.phase-4.org">Jason Ting</a> (of <a href="http://www.iphonesender.com">iPhoneSender</a> fame) to the team. We think he&rsquo;s got a lot of programming and design experience to contribute to the project. We&rsquo;ll have him in here in a little bit to say hi.</p>
+
+<p>Hsiu-Fan and I will drop in here when we have some breathing room to get the rest of this site up and running. Until then, you could do us a great favor by making yourself a sheet and tell us how it&rsquo;s working for you.</p>
+
+<p>Until next time,</p>
+
+<p>-Andrew</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Privacy thoughts in the wake of Facebook Beacon]]></title>
+    <link href="http://porkbuns.github.io/blog/2007/11/27/privacy-thoughts-in-the-wake-of-facebook-beacon/"/>
+    <updated>2007-11-27T03:48:29-08:00</updated>
+    <id>http://porkbuns.github.io/blog/2007/11/27/privacy-thoughts-in-the-wake-of-facebook-beacon</id>
+    <content type="html"><![CDATA[<p>There&rsquo;s been a lot of noise in the blogosphere lately with concern over the <a href="http://www.facebook.com/business/?beacon">Facebook Beacon</a>. Most folks are worried about Facebook becoming the new Big Brother, recklessly lording over your personal and private data and broadcasting it to your social network.</p>
+
+<p>Today I logged on to see what all the hubbub was all about, and at the top of my profile page there was a small notice notifying me that the <a href="http://berkeley.facebook.com/terms.php">terms of use</a> have been updated.</p>
+
+<p><em>An aside: who actually reads terms of service agreements?</em></p>
+
+<p>So I clicked on over to browse the TOS and realized, wow, this thing is pretty comprehensive. Can somebody get me a translator? Where&rsquo;s the part where we talk about data that comes in via the Beacon?</p>
+
+<p>I actually couldn&rsquo;t find anything. But <em>something</em> has changed. Can anybody help? Perhaps Facebook should have given us a summary of what&rsquo;s new about the Terms of Service. It seems like the right thing to do, yeah?</p>
+
+<p>Oh yeah, which brings me back to us: We&rsquo;ve got a rather plain <a href="http://www.wejoinin.com/site/terms">Terms of Service</a>. We&rsquo;re not about lording over your information, we&rsquo;re more about telling you in straight talk what our aims and objectives are and how we do our best to help you along. And if we change it, we&rsquo;ll do the right thing and tell you in plain, simple talk.</p>
+
+<p>Cuz you know, we like you like that.</p>
+
+<p>-Andrew</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[On speaking legalese]]></title>
+    <link href="http://porkbuns.github.io/blog/2007/08/28/on-speaking-legalese/"/>
+    <updated>2007-08-28T17:20:50-07:00</updated>
+    <id>http://porkbuns.github.io/blog/2007/08/28/on-speaking-legalese</id>
+    <content type="html"><![CDATA[<p>Who knows how to write a Terms of Service / Privacy Policy?</p>
+
+<p>We&rsquo;re not lawyers, and we really hope we&rsquo;ll never have to meet one in a professional capacity.</p>
+
+<p>Our Terms of Service basically goes (as of now):</p>
+
+<blockquote><p>We want to do the right thing with your data. This means we&rsquo;ll keep it as safe as possible and take all the measures we can to make sure it is backed up and available. We&rsquo;ll never sell your personal information either, because we like you.</p></blockquote>
+
+<p>But in the event things go wrong, you will promise not to hold us accountable.</p>
+
+<p>Now to translate this into legalese&hellip;</p>
+]]></content>
+  </entry>
+  
+</feed>

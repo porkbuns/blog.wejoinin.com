@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Web Hosting | Wejoinin Blog]]></title>
+  <link href="http://porkbuns.github.io/blog/blog/categories/web-hosting/atom.xml" rel="self"/>
+  <link href="http://porkbuns.github.io/blog/"/>
+  <updated>2016-03-07T20:52:35-08:00</updated>
+  <id>http://porkbuns.github.io/blog/</id>
+  <author>
+    <name><![CDATA[Porkbuns Initiative]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Explaining our 6/19-6/21 downtime]]></title>
+    <link href="http://porkbuns.github.io/blog/2010/06/21/explaining-our-619-621-downtime/"/>
+    <updated>2010-06-21T01:26:56-07:00</updated>
+    <id>http://porkbuns.github.io/blog/2010/06/21/explaining-our-619-621-downtime</id>
+    <content type="html"><![CDATA[<p>Hey folks,</p>
+
+<p>I wanted to personally apologize to you all again for the site downtime we&rsquo;ve experienced this weekend. Our host experienced a perfect storm of denial-of-service attacks and software failures in one of our machines that did not get addressed until early Monday morning. The problem was unfortunately out of our control. We&rsquo;re looking into how we can prevent such scenarios from occurring in the future.</p>
+
+<p>Thanks for understanding. Please don&rsquo;t hesitate to contact me (andrew at wejoinin dot com) if you have any further questions.</p>
+
+<p>-Andrew</p>
+]]></content>
+  </entry>
+  
+</feed>

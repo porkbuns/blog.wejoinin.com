@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Site | Wejoinin Blog]]></title>
+  <link href="http://porkbuns.github.io/blog/blog/categories/site/atom.xml" rel="self"/>
+  <link href="http://porkbuns.github.io/blog/"/>
+  <updated>2016-03-07T20:52:35-08:00</updated>
+  <id>http://porkbuns.github.io/blog/</id>
+  <author>
+    <name><![CDATA[Porkbuns Initiative]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Site maintenance and some advance apologies.]]></title>
+    <link href="http://porkbuns.github.io/blog/2013/05/17/site-maintenance-and-some-advance-apologies/"/>
+    <updated>2013-05-17T01:45:00-07:00</updated>
+    <id>http://porkbuns.github.io/blog/2013/05/17/site-maintenance-and-some-advance-apologies</id>
+    <content type="html"><![CDATA[<p>Well folks, we&rsquo;re in the middle of a site maintenance window from our hosts at <a href="http://prgmr.com">prgmr.com</a>. Essentially what happened was our app server is being switched to a different datacenter, and so we are having its IP block reassigned. Well in the meantime, we decided this is our chance to get our new beefy server up and running. Hsiu-Fan and I just spent the last few hours getting that beast up and running.</p>
+
+<p>So all that to say is that Wejoinin is back, and it&rsquo;s running our Rails 3-rewritten app. Now that being said, there are quite a lot of places in the code that need some love and TLC. If you&rsquo;re having issues with any part of the site, please don&rsquo;t hesitate to drop Hsiu-Fan or myself a line (email me at <a href="mailto:andrew%20at%20wejoinin%20dot%20com">andrew at wejoinin dot com</a>) and we&rsquo;ll try to get to the bottom of it.</p>
+
+<p>Thanks for your patience guys, we appreciate it.
+-Andrew</p>
+]]></content>
+  </entry>
+  
+</feed>

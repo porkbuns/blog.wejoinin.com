@@ -1,0 +1,378 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Wejoinin Blog</title>
+  <meta name="author" content="Porkbuns Initiative">
+
+  
+  <meta name="description" content="One of our design decisions was to go with a fluid layout. This meant that the main content was going to expand horizontally with the browser We &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://porkbuns.github.io/blog/blog/page/4/">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Wejoinin Blog" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Codystar' rel='stylesheet' type='text/css'>
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-2330913-11']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Wejoinin Blog</a></h1>
+  <h2>The latest scoop from your friends at <a href='http://www.wejoinin.com'>Wejoinin</a></h2>
+</hgroup>
+
+</header>
+  <div id="main">
+    <div id="content">
+      <div class="blog-index">
+  
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/2007/08/16/why-go-fluid/">Why Go Fluid?</a></h1>
+    
+  </header>
+
+
+  
+    <p class="meta">
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-08-16T17:23:30-07:00" pubdate data-updated="true">Aug 16<span>th</span>, 2007</time>
+      
+    </p>
+  
+  <div class="entry-content"><p>One of our design decisions was to go with a fluid layout. This meant that the main content was going to expand horizontally with the browser</p>
+
+<p>We noticed quite a few folks using layouts with multiple columns. And as we know, those columns get darn unwieldy when you try to stuff more than three. With a fixed layout, the columns were suffocating the cell content</p>
+
+<p>So we decided to design for those of you with high resolutions (greater than 1024x768) and let you guys put that extra screen width to use.</p>
+
+<p>A very interesting point: the fluid layout, when it becomes too wide, makes text nearly unreadable (longer lines of text increase visual complexity) and single-column tables, well, awkward. We had tossed around ideas of single-column signup sheets staying in a fixed-width layout, then going into an elastic layout once the layout exceeded <em>x</em> number of columns</p>
+
+<p>With design, there&rsquo;s always a tradeoff. Man.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/2007/08/07/a-pithy-post-to-let-you-know-were-not-dead/">A Pithy Post to Let You Know We&#8217;re Not Dead!</a></h1>
+    
+  </header>
+
+
+  
+    <p class="meta">
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-08-07T17:56:15-07:00" pubdate data-updated="true">Aug 7<span>th</span>, 2007</time>
+      
+    </p>
+  
+  <div class="entry-content"><p>Hello hello hello!</p>
+
+<p>Andrew here to remind you that Hsiu-fan and I are not dead! On the contrary, we are feverishly working away in the laboratory night and day&hellip;</p>
+
+<p>Okay, well we actually have to confess that progress on this page has been slower than we had liked. That would be my fault, folks&mdash;Hsiu-fan&rsquo;s got a big majority of the back-end finished up and is waiting on me to speed up with the front.</p>
+
+<p>What sorts of things <em>have</em> we done?</p>
+
+<p>Well in the short time period between June and July, we&rsquo;ve thrown in all the off-hours we could and brought some new spankin&#8217; new things to the table.</p>
+
+<ul>
+<li><p><strong>Wejoinin now sports a fluid layout.</strong> Thanks to our decision to go with the YUI Grids CSS framework, switching from a fixed-width to fluid layout was <em>way</em> easy.</p></li>
+<li><p><strong>Editing sheets just got easier with nubbins.</strong> Nubbins are little popups that appear when you hover over a table header. It allows us to give you navigational control without the clutter. Props to Hsiu-fan for a bit of CSS ninja-trickery.</p></li>
+<li><p><strong>We de-AJAXified the text fields.</strong> No, seriously, this is a good thing. We just couldn&rsquo;t get the in-place editors built into Rails working to our satisfaction, and realized that in our use case, <em>not</em> using AJAX would be more elegant. We&rsquo;ll look into this at a later date, if <em>only</em> to make the end-user experience smoother and tighter :D</p></li>
+<li><p><strong>We&rsquo;re less ugly. </strong>It&rsquo;s always nice to know that your baby gets beautiful with time.</p></li>
+</ul>
+
+
+<p>Hold on folks! We&rsquo;ve still got to throw in a bunch of things before we could consider this a &ldquo;launch&rdquo; product and have that slimy feeling go away. For awhile.</p>
+
+<ul>
+<li><p><strong>Uh, a front page.</strong> We need one. A logo would be cool too, but that&rsquo;s secondary. And a MASCOT. Ooo. Plus points for flashing animated GIFs. Glossy logos, too.</p></li>
+<li><p><strong>How about a business plan?</strong> Shh.. we were thinking of living off of <em>Paypal</em> contributions, but we know how stingy you all are (you could, of course, prove us wrong). But we&rsquo;re not very good at tricking you out of your money, either. And we&rsquo;re just darn nice :)</p></li>
+<li><p><strong>Cleaning up the signup-sheet editing UI:</strong> It&rsquo;s kind of clunky right now. And some AJAX would be nice (we&rsquo;re trying to find the time! Really!)</p></li>
+<li><p><strong>Whack-a-bug.</strong> Oh shucks, they&rsquo;re everywhere. Could you let us know if you find one or three or seventeen?</p></li>
+</ul>
+
+
+<p>We&rsquo;ll keep you updated as things get rollin&#8217;!</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/2007/06/09/a-brief-history-of-how-we-were-born/">A Brief History of How We Were Born!</a></h1>
+    
+  </header>
+
+
+  
+    <p class="meta">
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-06-09T07:59:48-07:00" pubdate data-updated="true">Jun 9<span>th</span>, 2007</time>
+      
+    </p>
+  
+  <div class="entry-content"><h4>How we were born!</h4>
+
+<p>Wejoinin, as most Web applications go, was borne as a solution to a real-world problem. Late in 2006, I was in a meeting with leaders from a few of the Christian fellowships at UC Berkeley planning a prayer vigil. We realized that we needed a way to track people coming.</p>
+
+<p>&ldquo;We need an online signup sheet,&rdquo; somebody said. &ldquo;Preferably by tomorrow.&rdquo; Then I felt all the eyes in the room fall on me.</p>
+
+<p>Crap.</p>
+
+<p>I went back to my apartment and slapped together a PHP script with the help of my friend Ryan. That night, a fairly crippled script flew on tattered wings.</p>
+
+<p>But the important thing was that it worked. We got some positive and constructive feedback from a bunch of folks. And over the next few months, we lovingly reworked the code. We fussed with the UI. We added some helpful AJAX dialogs (even if the buzzword <em>was</em> a bit tacky).</p>
+
+<p>Soon more and more folks requested the code for their own prayer rooms. And as this whole thing started blowing up in popularity, a few of our friends suggested that we make this a hosted service. And we open it up to all sorts of signups. And we get a cool glossy reflective logo (just kidding, we heard you gagging).</p>
+
+<h4>On a wing and a prayer</h4>
+
+<p>It happened that summer I was interning at a <a href="http://www.faqqly.com">certain special startup</a> with my friend and classmate, Hsiu-fan. Hsiu-fan had been giving me helpful critiques and suggestions with regards to the signup page, and he had downright ninja skills when it came to code. Well that summer we had been playing in Ruby on Rails and we figured, why not, let&rsquo;s code this thing in RoR like all the cool kids do.</p>
+
+<p>We tossed a few ideas around and came up with Wejoinin, the online signup sheet that doesn&rsquo;t make you cry. And by not making you cry, we mean we really wanted to come up with a signup sheet service so easy your mother could use and so awesome your geeky cousin rocking a Twitter shirt could gush about&hellip;</p>
+
+<p>(more to come!)</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/2007/06/04/first-post/">First Post!</a></h1>
+    
+  </header>
+
+
+  
+    <p class="meta">
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-06-04T17:48:14-07:00" pubdate data-updated="true">Jun 4<span>th</span>, 2007</time>
+      
+    </p>
+  
+  <div class="entry-content"><p>I guess I should start off by saying welcome. We (<a href="http://blog.g9labs.com/">Mr. Andrew Hao</a>, and <a href="http://hsiufan.eats.porkbuns.net/">Mr. Hsiu-Fan Wang</a>) put together <a href="http://www.wejoinin.com/">WeJoinIn</a> because we thought we could make a totally sweet signup-sheet thing.</p>
+
+<p>So, I just wanted to tell those who have seen the <a href="http://www.wejoinin.com/">frontpage</a> and thought &ldquo;wait, not <em>everyone</em> can sign up! I sure can&rsquo;t!&rdquo; that you are absolutely right. Unless you were given the <a href="http://www.wejoinin.com/account/sign_up">super-secret url to signup</a>&hellip;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  <div class="pagination">
+    
+    <a href="/blog/archives">Blog Archives</a>
+    
+    <a class="next" href="/blog/page/3/">Newer &rarr;</a>
+    
+  </div>
+</div>
+<aside class="sidebar">
+  
+    <form action="http://google.com/search" method="get">
+      <fieldset role="search">
+        <input type="hidden" name="q" value="site:porkbuns.github.io/blog" />
+        <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+      </fieldset>
+    </form>
+  
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/2013/06/03/internet-explorer-compatibility-issues/">Internet Explorer compatibility issues</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/05/17/site-maintenance-and-some-advance-apologies/">Site maintenance and some advance apologies.</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/05/15/somethings-afoot/">Something&#8217;s afoot</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2010/06/21/explaining-our-619-621-downtime/">Explaining our 6/19-6/21 downtime</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2010/04/18/our-apologies-site-down-for-a-bit/">Our apologies &#8211; site down for a bit.</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+  
+</aside>
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2016 - Porkbuns Initiative -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'wejoininblog';
+      
+        
+        var disqus_script = 'count.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="/javascripts/aharris.js"></script>
+
+</body>
+</html>

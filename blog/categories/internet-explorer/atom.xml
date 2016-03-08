@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Internet Explorer | Wejoinin Blog]]></title>
+  <link href="http://porkbuns.github.io/blog/blog/categories/internet-explorer/atom.xml" rel="self"/>
+  <link href="http://porkbuns.github.io/blog/"/>
+  <updated>2016-03-07T20:52:35-08:00</updated>
+  <id>http://porkbuns.github.io/blog/</id>
+  <author>
+    <name><![CDATA[Porkbuns Initiative]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Internet Explorer compatibility issues]]></title>
+    <link href="http://porkbuns.github.io/blog/2013/06/03/internet-explorer-compatibility-issues/"/>
+    <updated>2013-06-03T10:09:00-07:00</updated>
+    <id>http://porkbuns.github.io/blog/2013/06/03/internet-explorer-compatibility-issues</id>
+    <content type="html"><![CDATA[<p>Hey folks,</p>
+
+<p>Some of you have reported issues and errors of not being able to edit your sheets with Internet Explorer &mdash; we&rsquo;re looking into it, but in the meantime we suggest you use one of the later versions of Web browsers such as IE10, Chrome or Firefox. That should get around the editing issues you may be experiencing. Thanks for your patience all!</p>
+
+<p>-Andrew</p>
+]]></content>
+  </entry>
+  
+</feed>

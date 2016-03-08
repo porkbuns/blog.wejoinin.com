@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Branding | Wejoinin Blog]]></title>
+  <link href="http://porkbuns.github.io/blog/blog/categories/branding/atom.xml" rel="self"/>
+  <link href="http://porkbuns.github.io/blog/"/>
+  <updated>2016-03-07T20:52:35-08:00</updated>
+  <id>http://porkbuns.github.io/blog/</id>
+  <author>
+    <name><![CDATA[Porkbuns Initiative]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Moo.]]></title>
+    <link href="http://porkbuns.github.io/blog/2007/10/06/moo/"/>
+    <updated>2007-10-06T16:26:42-07:00</updated>
+    <id>http://porkbuns.github.io/blog/2007/10/06/moo</id>
+    <content type="html"><![CDATA[<p>In case you haven&rsquo;t noticed, there&rsquo;s a link titled &ldquo;Moo&rdquo; in the footer. Long long ago, Andrew put it in while he was designing the layout. We left it in (by accident), and I really liked it.</p>
+
+<p>I think sites are more fun when the people who make them have fun. I hate it when companies worry so much about public relations that it sucks all the personality and honesty out of their products. When people look at Wejoinin, it&rsquo;d be great if people would be able to say &ldquo;yah, it looks like they had fun making it&rdquo;.</p>
+
+<p>Because if there&rsquo;s anything I like more than being awesome, it&rsquo;s having fun. And &ldquo;porkbuns initiative&rdquo;? We&rsquo;re about that too.</p>
+
+<p><img src="http://www.wejoinin.com/images/moo.gif" alt="porkbuns? tastier than steak!" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What's in a name?]]></title>
+    <link href="http://porkbuns.github.io/blog/2007/08/22/whats-in-a-name/"/>
+    <updated>2007-08-22T09:30:20-07:00</updated>
+    <id>http://porkbuns.github.io/blog/2007/08/22/whats-in-a-name</id>
+    <content type="html"><![CDATA[<p>We had a heckuva time finding a name back in December 2006. What do you call this thing? We wanted a name that easily gave away the program’s functionality without being too much of a mouthful. We wanted it to be.. well.. not dry, drab or boring. We wanted it to be easy to remember.</p>
+
+<p>We decided to look for a domain name first, then name it accordingly (the guys at <a href="http://www.37signals.com/svn/">37signals</a> don’t agree with this, arguing that you can always rig up a domain name after the naming fact).</p>
+
+<p>But the problem was that every single domain with the mention of “signup” in it was, well, long gone. We decided to brainstorm, drawing up a mind map with clusters of words involving “time” “slot” “signup” “sheet” and adding all different permutations of the such. It looked somewhat like <image to come>.</p>
+
+<p>Then we stepped back and thought, what is this app allowing us to do? We wrote down a bunch of ideas: signing up, coming together, rallying the troops, joining an event…</p>
+
+<p>Hsiufan suggests &ldquo;Wejoinin&rdquo;. I check the domains, and it’s clear!</p>
+
+<p>Adblog Snark Hunting offers an <a href="http://www.snarkhunting.com/2006/11/zune-is-tune-with-a-z-2/">analysis of the “Zune” name</a>. A good look at the name/branding industry and how much thought goes into something that is trivial at first glance.</p>
+]]></content>
+  </entry>
+  
+</feed>

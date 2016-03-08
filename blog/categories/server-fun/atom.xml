@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Server Fun | Wejoinin Blog]]></title>
+  <link href="http://porkbuns.github.io/blog/blog/categories/server-fun/atom.xml" rel="self"/>
+  <link href="http://porkbuns.github.io/blog/"/>
+  <updated>2016-03-07T20:52:35-08:00</updated>
+  <id>http://porkbuns.github.io/blog/</id>
+  <author>
+    <name><![CDATA[Porkbuns Initiative]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Server transition nuts and bolts]]></title>
+    <link href="http://porkbuns.github.io/blog/2010/03/14/server-transition-nuts-and-bolts/"/>
+    <updated>2010-03-14T06:03:10-07:00</updated>
+    <id>http://porkbuns.github.io/blog/2010/03/14/server-transition-nuts-and-bolts</id>
+    <content type="html"><![CDATA[<p>When you run a Web app like Wejoinin on minimal VPS resources (read: we&rsquo;re too poor to get a beefy server), it forces you to go lean. We started to realize a year ago that our out-of-the-box Rails and nginx/Mongrel setup was starting to show its age; resource utilization would climb every so often and we&rsquo;d have to kill and restart a Mongrel worker thread. Every so often the site would slow down to a crawl and we&rsquo;d realize <em>oh shoot, we&rsquo;re swapping.</em>Well, with last night&rsquo;s Wejoinin push, we&rsquo;ve upgraded our server environment a few ways:</p>
+
+<ol>
+<li><p> We&rsquo;ve switched to <a href="http://prgmr.com/xen/">prgmr.com with a killer deal</a> on a 512MiB VPS. This is a step up from the 256 slice we used to hold at <a href="www.slicehost.com">Slicehost</a> at almost half the price.</p></li>
+<li><p> We&rsquo;ve switched from vanilla Ruby to <a href="http://www.rubyenterpriseedition.com/">Ruby Enterprise Edition </a>&mdash; advertised to take &ldquo;33% less memory [when used with Passenger]&rdquo;. It&rsquo;s got a tweaked garbage collector, memory allocator and the ability to go in a tweak memory usage settings for yourself.</p></li>
+<li><p> We&rsquo;ve set up <a href="http://unicorn.bogomips.org/">Unicorn</a>, the new HTTP server on the block. It&rsquo;s special in that each worker is in its own process, meaning that the load balancing is done natively by the OS. Also, this means that should a worker process start to get bloated, we can take it down gracefully without touching the others. Really. <a href="http://tomayko.com/writings/unicorn-is-unix">We can trust the OS</a>. Plus, <a href="http://github.com/blog/517-unicorn">Git&rsquo;s doing it</a>. Plus, Hsiu-Fan has a penchant for &ldquo;unconventional&rdquo; deployments.
+With all these tweaks, we should be seeing Wejoinin good and rarin' to go. Let us know what you think!-Andrew</p></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Maintenance COMPLETE: Sunday, March 14, 2AM PST]]></title>
+    <link href="http://porkbuns.github.io/blog/2010/03/12/wejoinin-site-maintenance-sunday-march-14-2am-pst/"/>
+    <updated>2010-03-12T07:20:16-08:00</updated>
+    <id>http://porkbuns.github.io/blog/2010/03/12/wejoinin-site-maintenance-sunday-march-14-2am-pst</id>
+    <content type="html"><![CDATA[<p><strong>EDIT: We have completed the switch. As always, please let us know if anything is broken!</strong></p>
+
+<p>It&rsquo;s been long in the works, but we are finally going through with our server transition. <a href="http://blog.wejoinin.com/2009/11/10/look-out-site-downtime-scheduled-nov-18-1am-pst/">The last time we planned this out</a>, there were a few server issues at our new host that made us hold off the fix. Things have stabilized recently, and we&rsquo;re going to go ahead and make this happen.</p>
+
+<p><em>Hsiu-Fan, Jason and Andrew have HENCEFORTH RESOLVED:</em></p>
+
+<p>To peform site maintenance on Wejoinin on <strong>Sunday, March 14,</strong> from <strong>2AM-4AM PST</strong>. Did we mention it&rsquo;s pi day?</p>
+
+<p><em>BE IT DECLARED:</em></p>
+
+<p>That users will see minimal downtime and a nice little feature after the swap!</p>
+
+<p>Thanks for your patience everyone!If you have any questions or concerns about the transition at any time, please feel free to email <a href="mailto:andrew@wejoinin.com">me (Andrew)</a> or <a href="mailto:hsiufan@wejoinin.com">Hsiu-Fan</a>.</p>
+
+<p>-Andrew</p>
+]]></content>
+  </entry>
+  
+</feed>
