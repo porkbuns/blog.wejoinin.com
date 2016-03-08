@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://blog.wejoinin.com
+url: https://blog.wejoinin.com
 title: Wejoinin Blog
 subtitle: "The latest scoop from your friends at <a href='http://www.wejoinin.com'>Wejoinin</a>"
 author: Porkbuns Initiative
-simple_search: http://google.com/search
+simple_search: https://google.com/search
 description: "A blog containing thoughts and news posts about the Wejoinin signup sheet application."
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
