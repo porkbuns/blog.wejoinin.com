@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Community Service | Wejoinin Blog]]></title>
-  <link href="http://porkbuns.github.io/blog/blog/categories/community-service/atom.xml" rel="self"/>
-  <link href="http://porkbuns.github.io/blog/"/>
-  <updated>2016-03-07T21:06:48-08:00</updated>
-  <id>http://porkbuns.github.io/blog/</id>
+  <link href="https://blog.wejoinin.com/blog/categories/community-service/atom.xml" rel="self"/>
+  <link href="https://blog.wejoinin.com/"/>
+  <updated>2016-03-07T21:07:46-08:00</updated>
+  <id>https://blog.wejoinin.com/</id>
   <author>
     <name><![CDATA[Porkbuns Initiative]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Sign up and volunteer to help the Vote Coalition at UC Berkeley]]></title>
-    <link href="http://porkbuns.github.io/blog/2008/10/14/sign-up-and-volunteer-to-help-the-vote-coalition-at-uc-berkeley/"/>
+    <link href="https://blog.wejoinin.com/2008/10/14/sign-up-and-volunteer-to-help-the-vote-coalition-at-uc-berkeley/"/>
     <updated>2008-10-14T15:20:12-07:00</updated>
-    <id>http://porkbuns.github.io/blog/2008/10/14/sign-up-and-volunteer-to-help-the-vote-coalition-at-uc-berkeley</id>
+    <id>https://blog.wejoinin.com/2008/10/14/sign-up-and-volunteer-to-help-the-vote-coalition-at-uc-berkeley</id>
     <content type="html"><![CDATA[<p>It&rsquo;s Voter Registration Week at UC Berkeley, and the nonpartisan UC Berkeley Vote Coalition is calling all of you who go to school there to help register other students to vote!</p>
 
 <p><strong>Sign up to volunteer at the: </strong></p>

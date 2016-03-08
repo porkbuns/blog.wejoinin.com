@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Design | Wejoinin Blog]]></title>
-  <link href="http://porkbuns.github.io/blog/blog/categories/design/atom.xml" rel="self"/>
-  <link href="http://porkbuns.github.io/blog/"/>
-  <updated>2016-03-07T21:06:48-08:00</updated>
-  <id>http://porkbuns.github.io/blog/</id>
+  <link href="https://blog.wejoinin.com/blog/categories/design/atom.xml" rel="self"/>
+  <link href="https://blog.wejoinin.com/"/>
+  <updated>2016-03-07T21:07:46-08:00</updated>
+  <id>https://blog.wejoinin.com/</id>
   <author>
     <name><![CDATA[Porkbuns Initiative]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[New features released this week!]]></title>
-    <link href="http://porkbuns.github.io/blog/2008/11/06/new-features-released-this-week/"/>
+    <link href="https://blog.wejoinin.com/2008/11/06/new-features-released-this-week/"/>
     <updated>2008-11-06T13:20:25-08:00</updated>
-    <id>http://porkbuns.github.io/blog/2008/11/06/new-features-released-this-week</id>
+    <id>https://blog.wejoinin.com/2008/11/06/new-features-released-this-week</id>
     <content type="html"><![CDATA[<p>Hey everyone, I&rsquo;m excited to introduce a couple of new features we&rsquo;ve released this week for you all:</p>
 
 <ul>
@@ -92,9 +92,9 @@
   
   <entry>
     <title type="html"><![CDATA[Why go fluid?]]></title>
-    <link href="http://porkbuns.github.io/blog/2007/08/16/why-go-fluid/"/>
+    <link href="https://blog.wejoinin.com/2007/08/16/why-go-fluid/"/>
     <updated>2007-08-16T17:23:30-07:00</updated>
-    <id>http://porkbuns.github.io/blog/2007/08/16/why-go-fluid</id>
+    <id>https://blog.wejoinin.com/2007/08/16/why-go-fluid</id>
     <content type="html"><![CDATA[<p>One of our design decisions was to go with a fluid layout. This meant that the main content was going to expand horizontally with the browser</p>
 
 <p>We noticed quite a few folks using layouts with multiple columns. And as we know, those columns get darn unwieldy when you try to stuff more than three. With a fixed layout, the columns were suffocating the cell content</p>
@@ -109,9 +109,9 @@
   
   <entry>
     <title type="html"><![CDATA[A brief history of how we were born!]]></title>
-    <link href="http://porkbuns.github.io/blog/2007/06/09/a-brief-history-of-how-we-were-born/"/>
+    <link href="https://blog.wejoinin.com/2007/06/09/a-brief-history-of-how-we-were-born/"/>
     <updated>2007-06-09T07:59:48-07:00</updated>
-    <id>http://porkbuns.github.io/blog/2007/06/09/a-brief-history-of-how-we-were-born</id>
+    <id>https://blog.wejoinin.com/2007/06/09/a-brief-history-of-how-we-were-born</id>
     <content type="html"><![CDATA[<h4>How we were born!</h4>
 
 <p>Wejoinin, as most Web applications go, was borne as a solution to a real-world problem. Late in 2006, I was in a meeting with leaders from a few of the Christian fellowships at UC Berkeley planning a prayer vigil. We realized that we needed a way to track people coming.</p>

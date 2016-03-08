@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://porkbuns.github.io/blog/sitemap.xml 
+Sitemap: https://blog.wejoinin.com/sitemap.xml 

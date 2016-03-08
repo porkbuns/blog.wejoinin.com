@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Business | Wejoinin Blog]]></title>
-  <link href="http://porkbuns.github.io/blog/blog/categories/business/atom.xml" rel="self"/>
-  <link href="http://porkbuns.github.io/blog/"/>
-  <updated>2016-03-07T21:06:48-08:00</updated>
-  <id>http://porkbuns.github.io/blog/</id>
+  <link href="https://blog.wejoinin.com/blog/categories/business/atom.xml" rel="self"/>
+  <link href="https://blog.wejoinin.com/"/>
+  <updated>2016-03-07T21:07:46-08:00</updated>
+  <id>https://blog.wejoinin.com/</id>
   <author>
     <name><![CDATA[Porkbuns Initiative]]></name>
     
@@ -15,16 +15,16 @@
   
   <entry>
     <title type="html"><![CDATA[Thanks for your feedback!]]></title>
-    <link href="http://porkbuns.github.io/blog/2008/09/29/thanks-for-your-feedback/"/>
+    <link href="https://blog.wejoinin.com/2008/09/29/thanks-for-your-feedback/"/>
     <updated>2008-09-29T16:34:28-07:00</updated>
-    <id>http://porkbuns.github.io/blog/2008/09/29/thanks-for-your-feedback</id>
+    <id>https://blog.wejoinin.com/2008/09/29/thanks-for-your-feedback</id>
     <content type="html"><![CDATA[<p>Lately, Hsiu-Fan, Jason and I have been getting lots of emails from our users telling us things from &ldquo;I think your site is awesome!&rdquo; to &ldquo;Something totally broke!&rdquo; We love it!</p>
 
 <p>While it&rsquo;s no secret that fixing broken things is nothing to cheer about, I&rsquo;ve been surprised in the past couple of months at just how much I love having interactions with you all. I love that what we do makes a difference in your lives. I love that you care enough to tell us why something isn&rsquo;t working. Many of you even offer us suggestions to make Wejoinin a little friendlier, and we certainly do take everything into serious consideration.</p>
 
 <p>Hsiu-Fan and I get the warm fuzzies when we get small compliments from &ldquo;this is really useful&rdquo; to big ones like &ldquo;thanks, you guys seriously saved my life!&rdquo; Well, shucks.</p>
 
-<p>This is also to encourage you to email us (<a href="&#109;&#97;&#x69;&#x6c;&#116;&#111;&#x3a;&#x61;&#x6e;&#100;&#114;&#x65;&#119;&#x40;&#119;&#x65;&#106;&#111;&#105;&#x6e;&#105;&#110;&#46;&#x63;&#x6f;&#109;">&#x61;&#x6e;&#100;&#x72;&#x65;&#119;&#x40;&#119;&#x65;&#x6a;&#x6f;&#x69;&#x6e;&#105;&#x6e;&#x2e;&#99;&#x6f;&#x6d;</a> / <a href="&#109;&#x61;&#x69;&#x6c;&#x74;&#111;&#x3a;&#104;&#115;&#105;&#x75;&#x66;&#x61;&#x6e;&#x40;&#x77;&#101;&#x6a;&#111;&#105;&#x6e;&#105;&#x6e;&#46;&#x63;&#111;&#x6d;">&#104;&#115;&#x69;&#x75;&#102;&#97;&#110;&#x40;&#x77;&#101;&#106;&#x6f;&#x69;&#x6e;&#x69;&#110;&#46;&#99;&#x6f;&#x6d;</a>) should you find something really wonky or if you&rsquo;re discovering weird behavior on your sheet or if our sheets are being terribly confusing to you (we&rsquo;ll do our best to make them behave).</p>
+<p>This is also to encourage you to email us (<a href="&#109;&#x61;&#105;&#x6c;&#x74;&#111;&#58;&#97;&#110;&#100;&#114;&#101;&#119;&#x40;&#119;&#101;&#106;&#x6f;&#x69;&#x6e;&#x69;&#110;&#x2e;&#x63;&#111;&#x6d;">&#x61;&#x6e;&#100;&#114;&#101;&#119;&#64;&#119;&#x65;&#x6a;&#111;&#x69;&#x6e;&#x69;&#110;&#46;&#x63;&#111;&#x6d;</a> / <a href="&#x6d;&#x61;&#x69;&#x6c;&#116;&#111;&#58;&#x68;&#x73;&#x69;&#x75;&#102;&#x61;&#110;&#64;&#x77;&#101;&#x6a;&#x6f;&#105;&#110;&#105;&#x6e;&#46;&#99;&#111;&#109;">&#104;&#x73;&#105;&#x75;&#x66;&#x61;&#110;&#64;&#119;&#x65;&#106;&#x6f;&#105;&#110;&#105;&#x6e;&#x2e;&#99;&#x6f;&#109;</a>) should you find something really wonky or if you&rsquo;re discovering weird behavior on your sheet or if our sheets are being terribly confusing to you (we&rsquo;ll do our best to make them behave).</p>
 
 <p>Once again, a warm and hearty &ldquo;thanks!&rdquo; from your friends here at Wejoinin,
 -Andrew</p>
@@ -33,9 +33,9 @@
   
   <entry>
     <title type="html"><![CDATA[Getting started (again) and getting excited]]></title>
-    <link href="http://porkbuns.github.io/blog/2008/04/21/getting-started-again-and-getting-excited/"/>
+    <link href="https://blog.wejoinin.com/2008/04/21/getting-started-again-and-getting-excited/"/>
     <updated>2008-04-21T10:11:48-07:00</updated>
-    <id>http://porkbuns.github.io/blog/2008/04/21/getting-started-again-and-getting-excited</id>
+    <id>https://blog.wejoinin.com/2008/04/21/getting-started-again-and-getting-excited</id>
     <content type="html"><![CDATA[<p>All&rsquo;s been quiet here among us at Wejoinin for the past couple months or so. Hsiu-Fan and I have been cranking away in our respective classes and haven&rsquo;t quite gotten the time to get in some work on this application.</p>
 
 <p>However, we&rsquo;re <em>really</em> thankful to those of you who use this site and continue to inform us of broken things and give us suggestions and even tell your friends!</p>
@@ -58,9 +58,9 @@
   
   <entry>
     <title type="html"><![CDATA[Privacy thoughts in the wake of Facebook Beacon]]></title>
-    <link href="http://porkbuns.github.io/blog/2007/11/27/privacy-thoughts-in-the-wake-of-facebook-beacon/"/>
+    <link href="https://blog.wejoinin.com/2007/11/27/privacy-thoughts-in-the-wake-of-facebook-beacon/"/>
     <updated>2007-11-27T03:48:29-08:00</updated>
-    <id>http://porkbuns.github.io/blog/2007/11/27/privacy-thoughts-in-the-wake-of-facebook-beacon</id>
+    <id>https://blog.wejoinin.com/2007/11/27/privacy-thoughts-in-the-wake-of-facebook-beacon</id>
     <content type="html"><![CDATA[<p>There&rsquo;s been a lot of noise in the blogosphere lately with concern over the <a href="http://www.facebook.com/business/?beacon">Facebook Beacon</a>. Most folks are worried about Facebook becoming the new Big Brother, recklessly lording over your personal and private data and broadcasting it to your social network.</p>
 
 <p>Today I logged on to see what all the hubbub was all about, and at the top of my profile page there was a small notice notifying me that the <a href="http://berkeley.facebook.com/terms.php">terms of use</a> have been updated.</p>
@@ -81,9 +81,9 @@
   
   <entry>
     <title type="html"><![CDATA[On speaking legalese]]></title>
-    <link href="http://porkbuns.github.io/blog/2007/08/28/on-speaking-legalese/"/>
+    <link href="https://blog.wejoinin.com/2007/08/28/on-speaking-legalese/"/>
     <updated>2007-08-28T17:20:50-07:00</updated>
-    <id>http://porkbuns.github.io/blog/2007/08/28/on-speaking-legalese</id>
+    <id>https://blog.wejoinin.com/2007/08/28/on-speaking-legalese</id>
     <content type="html"><![CDATA[<p>Who knows how to write a Terms of Service / Privacy Policy?</p>
 
 <p>We&rsquo;re not lawyers, and we really hope we&rsquo;ll never have to meet one in a professional capacity.</p>

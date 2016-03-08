@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Unicorn | Wejoinin Blog]]></title>
-  <link href="http://porkbuns.github.io/blog/blog/categories/unicorn/atom.xml" rel="self"/>
-  <link href="http://porkbuns.github.io/blog/"/>
-  <updated>2016-03-07T21:06:48-08:00</updated>
-  <id>http://porkbuns.github.io/blog/</id>
+  <link href="https://blog.wejoinin.com/blog/categories/unicorn/atom.xml" rel="self"/>
+  <link href="https://blog.wejoinin.com/"/>
+  <updated>2016-03-07T21:07:46-08:00</updated>
+  <id>https://blog.wejoinin.com/</id>
   <author>
     <name><![CDATA[Porkbuns Initiative]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Server transition nuts and bolts]]></title>
-    <link href="http://porkbuns.github.io/blog/2010/03/14/server-transition-nuts-and-bolts/"/>
+    <link href="https://blog.wejoinin.com/2010/03/14/server-transition-nuts-and-bolts/"/>
     <updated>2010-03-14T06:03:10-07:00</updated>
-    <id>http://porkbuns.github.io/blog/2010/03/14/server-transition-nuts-and-bolts</id>
+    <id>https://blog.wejoinin.com/2010/03/14/server-transition-nuts-and-bolts</id>
     <content type="html"><![CDATA[<p>When you run a Web app like Wejoinin on minimal VPS resources (read: we&rsquo;re too poor to get a beefy server), it forces you to go lean. We started to realize a year ago that our out-of-the-box Rails and nginx/Mongrel setup was starting to show its age; resource utilization would climb every so often and we&rsquo;d have to kill and restart a Mongrel worker thread. Every so often the site would slow down to a crawl and we&rsquo;d realize <em>oh shoot, we&rsquo;re swapping.</em>Well, with last night&rsquo;s Wejoinin push, we&rsquo;ve upgraded our server environment a few ways:</p>
 
 <ol>

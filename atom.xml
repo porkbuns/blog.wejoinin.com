@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[Wejoinin Blog]]></title>
-  <link href="http://porkbuns.github.io/blog/atom.xml" rel="self"/>
-  <link href="http://porkbuns.github.io/blog/"/>
-  <updated>2016-03-07T21:06:48-08:00</updated>
-  <id>http://porkbuns.github.io/blog/</id>
+  <link href="https://blog.wejoinin.com/atom.xml" rel="self"/>
+  <link href="https://blog.wejoinin.com/"/>
+  <updated>2016-03-07T21:07:46-08:00</updated>
+  <id>https://blog.wejoinin.com/</id>
   <author>
     <name><![CDATA[Porkbuns Initiative]]></name>
     
@@ -14,9 +14,9 @@
   
   <entry>
     <title type="html"><![CDATA[Internet Explorer compatibility issues]]></title>
-    <link href="http://porkbuns.github.io/blog/2013/06/03/internet-explorer-compatibility-issues/"/>
+    <link href="https://blog.wejoinin.com/2013/06/03/internet-explorer-compatibility-issues/"/>
     <updated>2013-06-03T10:09:00-07:00</updated>
-    <id>http://porkbuns.github.io/blog/2013/06/03/internet-explorer-compatibility-issues</id>
+    <id>https://blog.wejoinin.com/2013/06/03/internet-explorer-compatibility-issues</id>
     <content type="html"><![CDATA[<p>Hey folks,</p>
 
 <p>Some of you have reported issues and errors of not being able to edit your sheets with Internet Explorer &mdash; we&rsquo;re looking into it, but in the meantime we suggest you use one of the later versions of Web browsers such as IE10, Chrome or Firefox. That should get around the editing issues you may be experiencing. Thanks for your patience all!</p>
@@ -27,9 +27,9 @@
   
   <entry>
     <title type="html"><![CDATA[Site maintenance and some advance apologies.]]></title>
-    <link href="http://porkbuns.github.io/blog/2013/05/17/site-maintenance-and-some-advance-apologies/"/>
+    <link href="https://blog.wejoinin.com/2013/05/17/site-maintenance-and-some-advance-apologies/"/>
     <updated>2013-05-17T01:45:00-07:00</updated>
-    <id>http://porkbuns.github.io/blog/2013/05/17/site-maintenance-and-some-advance-apologies</id>
+    <id>https://blog.wejoinin.com/2013/05/17/site-maintenance-and-some-advance-apologies</id>
     <content type="html"><![CDATA[<p>Well folks, we&rsquo;re in the middle of a site maintenance window from our hosts at <a href="http://prgmr.com">prgmr.com</a>. Essentially what happened was our app server is being switched to a different datacenter, and so we are having its IP block reassigned. Well in the meantime, we decided this is our chance to get our new beefy server up and running. Hsiu-Fan and I just spent the last few hours getting that beast up and running.</p>
 
 <p>So all that to say is that Wejoinin is back, and it&rsquo;s running our Rails 3-rewritten app. Now that being said, there are quite a lot of places in the code that need some love and TLC. If you&rsquo;re having issues with any part of the site, please don&rsquo;t hesitate to drop Hsiu-Fan or myself a line (email me at <a href="mailto:andrew%20at%20wejoinin%20dot%20com">andrew at wejoinin dot com</a>) and we&rsquo;ll try to get to the bottom of it.</p>
@@ -41,9 +41,9 @@
   
   <entry>
     <title type="html"><![CDATA[Something's afoot]]></title>
-    <link href="http://porkbuns.github.io/blog/2013/05/15/somethings-afoot/"/>
+    <link href="https://blog.wejoinin.com/2013/05/15/somethings-afoot/"/>
     <updated>2013-05-15T09:31:00-07:00</updated>
-    <id>http://porkbuns.github.io/blog/2013/05/15/somethings-afoot</id>
+    <id>https://blog.wejoinin.com/2013/05/15/somethings-afoot</id>
     <content type="html"><![CDATA[<p>Ahoy! Good God&hellip; we haven&rsquo;t updated this blog in three years.</p>
 
 <p>Indeed&hellip; some things are changing here at Wejoinin. You might have noticed that we&rsquo;ve basically been the same app for the past two years or so, and much of that has been because Hsiu-Fan and I have been balancing full-time work and other nifty ninja projects but we do admit that we&rsquo;ve not been as up to snuff about keeping Wejoinin tidy and loved.</p>
@@ -62,9 +62,9 @@
   
   <entry>
     <title type="html"><![CDATA[Explaining our 6/19-6/21 downtime]]></title>
-    <link href="http://porkbuns.github.io/blog/2010/06/21/explaining-our-619-621-downtime/"/>
+    <link href="https://blog.wejoinin.com/2010/06/21/explaining-our-619-621-downtime/"/>
     <updated>2010-06-21T01:26:56-07:00</updated>
-    <id>http://porkbuns.github.io/blog/2010/06/21/explaining-our-619-621-downtime</id>
+    <id>https://blog.wejoinin.com/2010/06/21/explaining-our-619-621-downtime</id>
     <content type="html"><![CDATA[<p>Hey folks,</p>
 
 <p>I wanted to personally apologize to you all again for the site downtime we&rsquo;ve experienced this weekend. Our host experienced a perfect storm of denial-of-service attacks and software failures in one of our machines that did not get addressed until early Monday morning. The problem was unfortunately out of our control. We&rsquo;re looking into how we can prevent such scenarios from occurring in the future.</p>
@@ -77,18 +77,18 @@
   
   <entry>
     <title type="html"><![CDATA[Our apologies -- site down for a bit.]]></title>
-    <link href="http://porkbuns.github.io/blog/2010/04/18/our-apologies-site-down-for-a-bit/"/>
+    <link href="https://blog.wejoinin.com/2010/04/18/our-apologies-site-down-for-a-bit/"/>
     <updated>2010-04-18T13:30:10-07:00</updated>
-    <id>http://porkbuns.github.io/blog/2010/04/18/our-apologies-site-down-for-a-bit</id>
+    <id>https://blog.wejoinin.com/2010/04/18/our-apologies-site-down-for-a-bit</id>
     <content type="html"><![CDATA[<p>Today, April 19 @ 12:02AM GMT, our site went down for a little bit. Turns out we&rsquo;ve exceeded our allotted disk space. As of 3:49AM GMT, the issue has been fixed and Wejoinin should be back to normal now. Let us know if you&rsquo;re finding any issues with your sheets.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Server transition nuts and bolts]]></title>
-    <link href="http://porkbuns.github.io/blog/2010/03/14/server-transition-nuts-and-bolts/"/>
+    <link href="https://blog.wejoinin.com/2010/03/14/server-transition-nuts-and-bolts/"/>
     <updated>2010-03-14T06:03:10-07:00</updated>
-    <id>http://porkbuns.github.io/blog/2010/03/14/server-transition-nuts-and-bolts</id>
+    <id>https://blog.wejoinin.com/2010/03/14/server-transition-nuts-and-bolts</id>
     <content type="html"><![CDATA[<p>When you run a Web app like Wejoinin on minimal VPS resources (read: we&rsquo;re too poor to get a beefy server), it forces you to go lean. We started to realize a year ago that our out-of-the-box Rails and nginx/Mongrel setup was starting to show its age; resource utilization would climb every so often and we&rsquo;d have to kill and restart a Mongrel worker thread. Every so often the site would slow down to a crawl and we&rsquo;d realize <em>oh shoot, we&rsquo;re swapping.</em>Well, with last night&rsquo;s Wejoinin push, we&rsquo;ve upgraded our server environment a few ways:</p>
 
 <ol>
@@ -103,9 +103,9 @@ With all these tweaks, we should be seeing Wejoinin good and rarin&#8217; to go.
   
   <entry>
     <title type="html"><![CDATA[Maintenance COMPLETE: Sunday, March 14, 2AM PST]]></title>
-    <link href="http://porkbuns.github.io/blog/2010/03/12/wejoinin-site-maintenance-sunday-march-14-2am-pst/"/>
+    <link href="https://blog.wejoinin.com/2010/03/12/wejoinin-site-maintenance-sunday-march-14-2am-pst/"/>
     <updated>2010-03-12T07:20:16-08:00</updated>
-    <id>http://porkbuns.github.io/blog/2010/03/12/wejoinin-site-maintenance-sunday-march-14-2am-pst</id>
+    <id>https://blog.wejoinin.com/2010/03/12/wejoinin-site-maintenance-sunday-march-14-2am-pst</id>
     <content type="html"><![CDATA[<p><strong>EDIT: We have completed the switch. As always, please let us know if anything is broken!</strong></p>
 
 <p>It&rsquo;s been long in the works, but we are finally going through with our server transition. <a href="http://blog.wejoinin.com/2009/11/10/look-out-site-downtime-scheduled-nov-18-1am-pst/">The last time we planned this out</a>, there were a few server issues at our new host that made us hold off the fix. Things have stabilized recently, and we&rsquo;re going to go ahead and make this happen.</p>
@@ -126,9 +126,9 @@ With all these tweaks, we should be seeing Wejoinin good and rarin&#8217; to go.
   
   <entry>
     <title type="html"><![CDATA[Wejoinin wishes you a happy new year!]]></title>
-    <link href="http://porkbuns.github.io/blog/2009/12/31/wejoinin-wishes-you-a-happy-new-year/"/>
+    <link href="https://blog.wejoinin.com/2009/12/31/wejoinin-wishes-you-a-happy-new-year/"/>
     <updated>2009-12-31T08:59:20-08:00</updated>
-    <id>http://porkbuns.github.io/blog/2009/12/31/wejoinin-wishes-you-a-happy-new-year</id>
+    <id>https://blog.wejoinin.com/2009/12/31/wejoinin-wishes-you-a-happy-new-year</id>
     <content type="html"><![CDATA[<p>Thank you, all of you, for your input, your comments and your support for Wejoinin. Hsiu-Fan, Jason, and I are proud to say we make something that makes people&rsquo;s lives easier, be it sign-up sheets for your holiday potluck, to professor office hours, to the company party. We&rsquo;ve got lots of cool things in store for 2010. From all of us at Wejoinin, we wish you a very happy new year!</p>
 
 <p>-Andrew</p>
@@ -137,9 +137,9 @@ With all these tweaks, we should be seeing Wejoinin good and rarin&#8217; to go.
   
   <entry>
     <title type="html"><![CDATA[Look out--site downtime scheduled Nov. 18, 1AM PST]]></title>
-    <link href="http://porkbuns.github.io/blog/2009/11/10/look-out-site-downtime-scheduled-nov-18-1am-pst/"/>
+    <link href="https://blog.wejoinin.com/2009/11/10/look-out-site-downtime-scheduled-nov-18-1am-pst/"/>
     <updated>2009-11-10T14:14:29-08:00</updated>
-    <id>http://porkbuns.github.io/blog/2009/11/10/look-out-site-downtime-scheduled-nov-18-1am-pst</id>
+    <id>https://blog.wejoinin.com/2009/11/10/look-out-site-downtime-scheduled-nov-18-1am-pst</id>
     <content type="html"><![CDATA[<p>Wejoinin is definitely growing&mdash;so much that we&rsquo;re switching servers again!The good folks at <a href="http://www.prgmr.com">prgmr.com</a> have offered a <a href="http://prgmr.com/xen/">killer deal</a> on Xen VPS Web hosting that we just couldn&rsquo;t pass up. In the early morning of Nov. 18, you should expect to see some minor downtime as we get the transition going.Thanks for hanging in there with us! We&rsquo;ll keep you updated as best we can.</p>
 
 <p>-Andrew</p>
@@ -150,12 +150,12 @@ With all these tweaks, we should be seeing Wejoinin good and rarin&#8217; to go.
   
   <entry>
     <title type="html"><![CDATA[Now With Signup Comments!]]></title>
-    <link href="http://porkbuns.github.io/blog/2009/01/30/now-with-signup-comments/"/>
+    <link href="https://blog.wejoinin.com/2009/01/30/now-with-signup-comments/"/>
     <updated>2009-01-30T17:26:11-08:00</updated>
-    <id>http://porkbuns.github.io/blog/2009/01/30/now-with-signup-comments</id>
+    <id>https://blog.wejoinin.com/2009/01/30/now-with-signup-comments</id>
     <content type="html"><![CDATA[<p>For the longest time people have been wondering &ldquo;how can I add a little info to my signup?&rdquo; Potluck signups want to brag about their world-famous chili, and sometimes you just want to express how <em>pumped</em> you are for the upcoming fundraiser. Look no further: we&rsquo;ve added a comment field to the signup process.</p>
 
-<p><img src="http://porkbuns.github.io/blog/images/2009-01-31-now-with-signup-comments/wejoinin-now-with-comments.gif" alt="Signup… with a comment!" /></p>
+<p><img src="https://blog.wejoinin.com/images/2009-01-31-now-with-signup-comments/wejoinin-now-with-comments.gif" alt="Signup… with a comment!" /></p>
 
 <p>Team Wejoinin wrestled long and hard over how best to allow you guys  to provide some extra info on the signup sheet while keeping it simple enough that even my mom could use it. (Hi Mom!) After some thought, we ended up going with a free-form comment box, and sheet authors can just use the sheet description if there are any specific needs for the comment box. (So now you lovely pot-luckers, ask people to describe what they&rsquo;re bringing in the signup comment and all should be well!)</p>
 
@@ -165,9 +165,9 @@ With all these tweaks, we should be seeing Wejoinin good and rarin&#8217; to go.
   
   <entry>
     <title type="html"><![CDATA[New features released this week!]]></title>
-    <link href="http://porkbuns.github.io/blog/2008/11/06/new-features-released-this-week/"/>
+    <link href="https://blog.wejoinin.com/2008/11/06/new-features-released-this-week/"/>
     <updated>2008-11-06T13:20:25-08:00</updated>
-    <id>http://porkbuns.github.io/blog/2008/11/06/new-features-released-this-week</id>
+    <id>https://blog.wejoinin.com/2008/11/06/new-features-released-this-week</id>
     <content type="html"><![CDATA[<p>Hey everyone, I&rsquo;m excited to introduce a couple of new features we&rsquo;ve released this week for you all:</p>
 
 <ul>
@@ -185,21 +185,21 @@ With all these tweaks, we should be seeing Wejoinin good and rarin&#8217; to go.
 
 <p>How does this work? First, <strong>every user receives an autogenerated custom URL</strong> You can see what it is by logging in and checking the URL location bar in your browser.</p>
 
-<p><a href="http://porkbuns.github.io/blog/images/2008-11-06-new-features-released-this-week/sheet_list_home1.PNG"><img src="http://porkbuns.github.io/blog/images/2008-11-06-new-features-released-this-week/sheet_list_home1.thumbnail.PNG" alt="sheet_list_home1.PNG" /></a></p>
+<p><a href="https://blog.wejoinin.com/images/2008-11-06-new-features-released-this-week/sheet_list_home1.PNG"><img src="https://blog.wejoinin.com/images/2008-11-06-new-features-released-this-week/sheet_list_home1.thumbnail.PNG" alt="sheet_list_home1.PNG" /></a></p>
 
 <p>A close-up of my location bar:</p>
 
-<p><img src="http://porkbuns.github.io/blog/images/2008-11-06-new-features-released-this-week/custom_url.PNG" alt="custom_url.PNG" /></p>
+<p><img src="https://blog.wejoinin.com/images/2008-11-06-new-features-released-this-week/custom_url.PNG" alt="custom_url.PNG" /></p>
 
 <p>Tell all your users to go to this URL, and they&rsquo;ll see a special publicly-visible view of all your sheets:</p>
 
-<p><a href="http://porkbuns.github.io/blog/images/2008-11-06-new-features-released-this-week/public_sheet_list_view1.PNG"><img src="http://porkbuns.github.io/blog/images/2008-11-06-new-features-released-this-week/public_sheet_list_view1.thumbnail.PNG" alt="public_sheet_list_view1.PNG" /></a></p>
+<p><a href="https://blog.wejoinin.com/images/2008-11-06-new-features-released-this-week/public_sheet_list_view1.PNG"><img src="https://blog.wejoinin.com/images/2008-11-06-new-features-released-this-week/public_sheet_list_view1.thumbnail.PNG" alt="public_sheet_list_view1.PNG" /></a></p>
 
 <p>Of course, if you don&rsquo;t want users to see this list of sheets, you&rsquo;re under no obligation to give out your link. (And yes, we&rsquo;re thinking about building in privacy features so you can choose not to display certain sheets in this view!).</p>
 
 <p>If you want to change your username, you can visit the &ldquo;Account&rdquo; tab and change it:</p>
 
-<p><img src="http://porkbuns.github.io/blog/images/2008-11-06-new-features-released-this-week/account_username_change.PNG" alt="account_username_change.PNG" /></p>
+<p><img src="https://blog.wejoinin.com/images/2008-11-06-new-features-released-this-week/account_username_change.PNG" alt="account_username_change.PNG" /></p>
 
 <!-- more -->
 
@@ -208,21 +208,21 @@ With all these tweaks, we should be seeing Wejoinin good and rarin&#8217; to go.
 
 <p>Many of you have very, very wide sheets that just don&rsquo;t quite seem to fit on a single page. We&rsquo;ve given you the option to collapse that right sidebar&mdash;goodbye, pesky boxes! Ah, now to stretch our legs&hellip;</p>
 
-<p><a href="http://porkbuns.github.io/blog/images/2008-11-06-new-features-released-this-week/pre_collapse_highlight1.PNG"><img src="http://porkbuns.github.io/blog/images/2008-11-06-new-features-released-this-week/pre_collapse_highlight1.thumbnail.PNG" alt="pre_collapse_highlight1.PNG" /></a></p>
+<p><a href="https://blog.wejoinin.com/images/2008-11-06-new-features-released-this-week/pre_collapse_highlight1.PNG"><img src="https://blog.wejoinin.com/images/2008-11-06-new-features-released-this-week/pre_collapse_highlight1.thumbnail.PNG" alt="pre_collapse_highlight1.PNG" /></a></p>
 
-<p><a href="http://porkbuns.github.io/blog/images/2008-11-06-new-features-released-this-week/post_collapse1.PNG"><img src="http://porkbuns.github.io/blog/images/2008-11-06-new-features-released-this-week/post_collapse1.thumbnail.PNG" alt="post_collapse1.PNG" /></a></p>
+<p><a href="https://blog.wejoinin.com/images/2008-11-06-new-features-released-this-week/post_collapse1.PNG"><img src="https://blog.wejoinin.com/images/2008-11-06-new-features-released-this-week/post_collapse1.thumbnail.PNG" alt="post_collapse1.PNG" /></a></p>
 
 <h3>Redesigned sheet list home</h3>
 
 <p>We&rsquo;ve rearranged the look and feel of the buttons on the sheets on the front page, to give some more space for sheet descriptions, and also make some more room for current and future feature releases!</p>
 
-<p><a href="http://porkbuns.github.io/blog/images/2008-11-06-new-features-released-this-week/sheet_list_home1.PNG"><img src="http://porkbuns.github.io/blog/images/2008-11-06-new-features-released-this-week/sheet_list_home1.thumbnail.PNG" alt="sheet_list_home1.PNG" /></a></p>
+<p><a href="https://blog.wejoinin.com/images/2008-11-06-new-features-released-this-week/sheet_list_home1.PNG"><img src="https://blog.wejoinin.com/images/2008-11-06-new-features-released-this-week/sheet_list_home1.thumbnail.PNG" alt="sheet_list_home1.PNG" /></a></p>
 
 <h3>New sheet administration options: copy &amp; clear</h3>
 
 <p>We&rsquo;ve added the ability for you to copy &amp; clear sheets: take a look!</p>
 
-<p><img src="http://porkbuns.github.io/blog/images/2008-11-06-new-features-released-this-week/admin_tab.PNG" alt="admin_tab.PNG" /></p>
+<p><img src="https://blog.wejoinin.com/images/2008-11-06-new-features-released-this-week/admin_tab.PNG" alt="admin_tab.PNG" /></p>
 
 <p>By <strong>making a copy</strong> of a sheet, you&rsquo;ve made a structural copy of your current sheet for future editing. We can see this particularly useful for those of you who use the same signup sheet for repeating events.</p>
 
@@ -232,9 +232,9 @@ With all these tweaks, we should be seeing Wejoinin good and rarin&#8217; to go.
 
 <p>Finally, we&rsquo;ve made cell editing a whole lot sleeker. You&rsquo;ve now got a lot more room to type out what you need, without the clutter of the previous interface.</p>
 
-<p><img src="http://porkbuns.github.io/blog/images/2008-11-06-new-features-released-this-week/edit_col_header.PNG" alt="edit_col_header.PNG" /></p>
+<p><img src="https://blog.wejoinin.com/images/2008-11-06-new-features-released-this-week/edit_col_header.PNG" alt="edit_col_header.PNG" /></p>
 
-<p><img src="http://porkbuns.github.io/blog/images/2008-11-06-new-features-released-this-week/edit_row_header.PNG" alt="edit_row_header.PNG" /></p>
+<p><img src="https://blog.wejoinin.com/images/2008-11-06-new-features-released-this-week/edit_row_header.PNG" alt="edit_row_header.PNG" /></p>
 
 <p>We&rsquo;re really excited to hear what you think! If you run into any problems or have any questions or comments, please email <a href="mailto:andrew@wejoinin.com">Andrew</a> or <a href="mailto:hsiufan@wejoinin.com">Hsiu-Fan</a> with what you think!</p>
 ]]></content>
@@ -242,9 +242,9 @@ With all these tweaks, we should be seeing Wejoinin good and rarin&#8217; to go.
   
   <entry>
     <title type="html"><![CDATA[Sign up and volunteer to help the Vote Coalition at UC Berkeley]]></title>
-    <link href="http://porkbuns.github.io/blog/2008/10/14/sign-up-and-volunteer-to-help-the-vote-coalition-at-uc-berkeley/"/>
+    <link href="https://blog.wejoinin.com/2008/10/14/sign-up-and-volunteer-to-help-the-vote-coalition-at-uc-berkeley/"/>
     <updated>2008-10-14T15:20:12-07:00</updated>
-    <id>http://porkbuns.github.io/blog/2008/10/14/sign-up-and-volunteer-to-help-the-vote-coalition-at-uc-berkeley</id>
+    <id>https://blog.wejoinin.com/2008/10/14/sign-up-and-volunteer-to-help-the-vote-coalition-at-uc-berkeley</id>
     <content type="html"><![CDATA[<p>It&rsquo;s Voter Registration Week at UC Berkeley, and the nonpartisan UC Berkeley Vote Coalition is calling all of you who go to school there to help register other students to vote!</p>
 
 <p><strong>Sign up to volunteer at the: </strong></p>
@@ -266,16 +266,16 @@ With all these tweaks, we should be seeing Wejoinin good and rarin&#8217; to go.
   
   <entry>
     <title type="html"><![CDATA[Thanks for your feedback!]]></title>
-    <link href="http://porkbuns.github.io/blog/2008/09/29/thanks-for-your-feedback/"/>
+    <link href="https://blog.wejoinin.com/2008/09/29/thanks-for-your-feedback/"/>
     <updated>2008-09-29T16:34:28-07:00</updated>
-    <id>http://porkbuns.github.io/blog/2008/09/29/thanks-for-your-feedback</id>
+    <id>https://blog.wejoinin.com/2008/09/29/thanks-for-your-feedback</id>
     <content type="html"><![CDATA[<p>Lately, Hsiu-Fan, Jason and I have been getting lots of emails from our users telling us things from &ldquo;I think your site is awesome!&rdquo; to &ldquo;Something totally broke!&rdquo; We love it!</p>
 
 <p>While it&rsquo;s no secret that fixing broken things is nothing to cheer about, I&rsquo;ve been surprised in the past couple of months at just how much I love having interactions with you all. I love that what we do makes a difference in your lives. I love that you care enough to tell us why something isn&rsquo;t working. Many of you even offer us suggestions to make Wejoinin a little friendlier, and we certainly do take everything into serious consideration.</p>
 
 <p>Hsiu-Fan and I get the warm fuzzies when we get small compliments from &ldquo;this is really useful&rdquo; to big ones like &ldquo;thanks, you guys seriously saved my life!&rdquo; Well, shucks.</p>
 
-<p>This is also to encourage you to email us (<a href="&#109;&#97;&#105;&#108;&#x74;&#111;&#58;&#x61;&#x6e;&#100;&#x72;&#x65;&#119;&#64;&#x77;&#101;&#106;&#x6f;&#105;&#x6e;&#105;&#110;&#x2e;&#x63;&#x6f;&#109;">&#x61;&#110;&#100;&#114;&#x65;&#119;&#64;&#x77;&#101;&#106;&#x6f;&#105;&#x6e;&#105;&#110;&#46;&#99;&#111;&#109;</a> / <a href="&#x6d;&#x61;&#105;&#108;&#x74;&#111;&#58;&#x68;&#x73;&#x69;&#x75;&#x66;&#97;&#x6e;&#x40;&#119;&#101;&#x6a;&#x6f;&#105;&#x6e;&#x69;&#x6e;&#46;&#99;&#111;&#109;">&#x68;&#115;&#x69;&#x75;&#x66;&#97;&#110;&#x40;&#x77;&#101;&#106;&#111;&#x69;&#x6e;&#x69;&#110;&#46;&#99;&#x6f;&#109;</a>) should you find something really wonky or if you&rsquo;re discovering weird behavior on your sheet or if our sheets are being terribly confusing to you (we&rsquo;ll do our best to make them behave).</p>
+<p>This is also to encourage you to email us (<a href="&#x6d;&#97;&#105;&#x6c;&#x74;&#111;&#58;&#x61;&#110;&#100;&#x72;&#101;&#119;&#x40;&#x77;&#x65;&#x6a;&#111;&#x69;&#x6e;&#x69;&#x6e;&#46;&#x63;&#x6f;&#109;">&#97;&#110;&#100;&#114;&#x65;&#x77;&#64;&#x77;&#x65;&#x6a;&#x6f;&#x69;&#110;&#105;&#110;&#x2e;&#99;&#111;&#x6d;</a> / <a href="&#109;&#x61;&#105;&#108;&#116;&#x6f;&#x3a;&#x68;&#x73;&#105;&#x75;&#x66;&#x61;&#x6e;&#x40;&#x77;&#101;&#x6a;&#x6f;&#x69;&#110;&#x69;&#x6e;&#x2e;&#x63;&#x6f;&#x6d;">&#x68;&#x73;&#x69;&#117;&#x66;&#97;&#110;&#x40;&#119;&#x65;&#106;&#111;&#105;&#x6e;&#x69;&#x6e;&#46;&#99;&#111;&#x6d;</a>) should you find something really wonky or if you&rsquo;re discovering weird behavior on your sheet or if our sheets are being terribly confusing to you (we&rsquo;ll do our best to make them behave).</p>
 
 <p>Once again, a warm and hearty &ldquo;thanks!&rdquo; from your friends here at Wejoinin,
 -Andrew</p>
@@ -284,9 +284,9 @@ With all these tweaks, we should be seeing Wejoinin good and rarin&#8217; to go.
   
   <entry>
     <title type="html"><![CDATA[Fixed Stuff. Things Better.]]></title>
-    <link href="http://porkbuns.github.io/blog/2008/08/24/fixed-stuff-things-better/"/>
+    <link href="https://blog.wejoinin.com/2008/08/24/fixed-stuff-things-better/"/>
     <updated>2008-08-24T18:11:49-07:00</updated>
-    <id>http://porkbuns.github.io/blog/2008/08/24/fixed-stuff-things-better</id>
+    <id>https://blog.wejoinin.com/2008/08/24/fixed-stuff-things-better</id>
     <content type="html"><![CDATA[<p>Andrew always promises cool new things (sometimes soon), but today I want to tell you about cool things that are no longer broken.</p>
 
 <p>For awhile now, editing sheets has been finicky to downright broken in IE. I updated the site a few days ago, after fixing it a week ago and waiting awhile to make sure it really didn&rsquo;t break anything else that was important. There were two things that were broken: deleting headers (that is, rows and columns), and changing the number of signups allowed on a slot.Warning: tech nerdery ahead. Read on for the gritty details.</p>
@@ -304,9 +304,9 @@ With all these tweaks, we should be seeing Wejoinin good and rarin&#8217; to go.
   
   <entry>
     <title type="html"><![CDATA[Getting started (again) and getting excited]]></title>
-    <link href="http://porkbuns.github.io/blog/2008/04/21/getting-started-again-and-getting-excited/"/>
+    <link href="https://blog.wejoinin.com/2008/04/21/getting-started-again-and-getting-excited/"/>
     <updated>2008-04-21T10:11:48-07:00</updated>
-    <id>http://porkbuns.github.io/blog/2008/04/21/getting-started-again-and-getting-excited</id>
+    <id>https://blog.wejoinin.com/2008/04/21/getting-started-again-and-getting-excited</id>
     <content type="html"><![CDATA[<p>All&rsquo;s been quiet here among us at Wejoinin for the past couple months or so. Hsiu-Fan and I have been cranking away in our respective classes and haven&rsquo;t quite gotten the time to get in some work on this application.</p>
 
 <p>However, we&rsquo;re <em>really</em> thankful to those of you who use this site and continue to inform us of broken things and give us suggestions and even tell your friends!</p>
@@ -329,9 +329,9 @@ With all these tweaks, we should be seeing Wejoinin good and rarin&#8217; to go.
   
   <entry>
     <title type="html"><![CDATA[Keeping you in the loop!]]></title>
-    <link href="http://porkbuns.github.io/blog/2008/02/14/keeping-you-in-the-loop/"/>
+    <link href="https://blog.wejoinin.com/2008/02/14/keeping-you-in-the-loop/"/>
     <updated>2008-02-14T02:36:30-08:00</updated>
-    <id>http://porkbuns.github.io/blog/2008/02/14/keeping-you-in-the-loop</id>
+    <id>https://blog.wejoinin.com/2008/02/14/keeping-you-in-the-loop</id>
     <content type="html"><![CDATA[<p>We have a bunch of cool features (alright, I agree, why didn&rsquo;t we think of them earlier?) and we wanted to showcase them. Lots of pretty screenshots lie after the more link, so take a look, but in summary the new features are: adding multiple rows and columns at a time,  tweaked UI for signup cells (open/close and changing signup limits), sheet templates, and <em>more</em>.</p>
 
 <!-- more -->
@@ -401,9 +401,9 @@ With all these tweaks, we should be seeing Wejoinin good and rarin&#8217; to go.
   
   <entry>
     <title type="html"><![CDATA[Switching servers soon, so stay sharp!]]></title>
-    <link href="http://porkbuns.github.io/blog/2007/12/29/switching-servers-soon-so-stay-sharp/"/>
+    <link href="https://blog.wejoinin.com/2007/12/29/switching-servers-soon-so-stay-sharp/"/>
     <updated>2007-12-29T07:33:19-08:00</updated>
-    <id>http://porkbuns.github.io/blog/2007/12/29/switching-servers-soon-so-stay-sharp</id>
+    <id>https://blog.wejoinin.com/2007/12/29/switching-servers-soon-so-stay-sharp</id>
     <content type="html"><![CDATA[<p>We will be switching servers shortly after we ring in the New Year on the West Coast. We&rsquo;re going to pull the plug for just a couple of hours at 3AM PST or so on Jan. 1 2008 and make our move from <a href="http://dreamhost.com">Dreamhost</a> over to <a href="http://slicehost.com">Slicehost</a>.</p>
 
 <p>When we come back online that morning, you&rsquo;ll see a couple of extra features that&rsquo;ll help you get your sheets up and started as quickly and easily as possible! I&rsquo;ll discuss these new features on New Years&#8217; Day.</p>
@@ -422,9 +422,9 @@ With all these tweaks, we should be seeing Wejoinin good and rarin&#8217; to go.
   
   <entry>
     <title type="html"><![CDATA[Merry Christmas!]]></title>
-    <link href="http://porkbuns.github.io/blog/2007/12/24/merry-christmas/"/>
+    <link href="https://blog.wejoinin.com/2007/12/24/merry-christmas/"/>
     <updated>2007-12-24T12:08:16-08:00</updated>
-    <id>http://porkbuns.github.io/blog/2007/12/24/merry-christmas</id>
+    <id>https://blog.wejoinin.com/2007/12/24/merry-christmas</id>
     <content type="html"><![CDATA[<p>We&rsquo;re wishing you great times, warm conversations and much laughter with your friends and family this holiday season. Cheers!</p>
 
 <p>-Andrew</p>
@@ -433,9 +433,9 @@ With all these tweaks, we should be seeing Wejoinin good and rarin&#8217; to go.
   
   <entry>
     <title type="html"><![CDATA[Signup errors -- big apologies from us]]></title>
-    <link href="http://porkbuns.github.io/blog/2007/11/29/signup-errors-big-apologies-from-us/"/>
+    <link href="https://blog.wejoinin.com/2007/11/29/signup-errors-big-apologies-from-us/"/>
     <updated>2007-11-29T03:37:07-08:00</updated>
-    <id>http://porkbuns.github.io/blog/2007/11/29/signup-errors-big-apologies-from-us</id>
+    <id>https://blog.wejoinin.com/2007/11/29/signup-errors-big-apologies-from-us</id>
     <content type="html"><![CDATA[<p>Hey friends,</p>
 
 <p>We were notified this morning to an error on our site preventing people from signing up. We checked our logs and realized&mdash;uh oh!&mdash;we&rsquo;ve let a software mistake crawl onto our server for over three weeks now. This is completely unacceptable on our part, and we do sincerely apologize to those of you who assumed that we&rsquo;d be jumping all over it the minute that error message popped up on your browsers. <strong>We&rsquo;ve fixed the error and all sheets are now processing signups.</strong></p>
@@ -460,9 +460,9 @@ This winter, we&rsquo;re revamping our development and deployment processes so a
   
   <entry>
     <title type="html"><![CDATA[Privacy thoughts in the wake of Facebook Beacon]]></title>
-    <link href="http://porkbuns.github.io/blog/2007/11/27/privacy-thoughts-in-the-wake-of-facebook-beacon/"/>
+    <link href="https://blog.wejoinin.com/2007/11/27/privacy-thoughts-in-the-wake-of-facebook-beacon/"/>
     <updated>2007-11-27T03:48:29-08:00</updated>
-    <id>http://porkbuns.github.io/blog/2007/11/27/privacy-thoughts-in-the-wake-of-facebook-beacon</id>
+    <id>https://blog.wejoinin.com/2007/11/27/privacy-thoughts-in-the-wake-of-facebook-beacon</id>
     <content type="html"><![CDATA[<p>There&rsquo;s been a lot of noise in the blogosphere lately with concern over the <a href="http://www.facebook.com/business/?beacon">Facebook Beacon</a>. Most folks are worried about Facebook becoming the new Big Brother, recklessly lording over your personal and private data and broadcasting it to your social network.</p>
 
 <p>Today I logged on to see what all the hubbub was all about, and at the top of my profile page there was a small notice notifying me that the <a href="http://berkeley.facebook.com/terms.php">terms of use</a> have been updated.</p>

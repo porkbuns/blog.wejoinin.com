@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Support | Wejoinin Blog]]></title>
-  <link href="http://porkbuns.github.io/blog/blog/categories/support/atom.xml" rel="self"/>
-  <link href="http://porkbuns.github.io/blog/"/>
-  <updated>2016-03-07T21:06:48-08:00</updated>
-  <id>http://porkbuns.github.io/blog/</id>
+  <link href="https://blog.wejoinin.com/blog/categories/support/atom.xml" rel="self"/>
+  <link href="https://blog.wejoinin.com/"/>
+  <updated>2016-03-07T21:07:46-08:00</updated>
+  <id>https://blog.wejoinin.com/</id>
   <author>
     <name><![CDATA[Porkbuns Initiative]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Internet Explorer compatibility issues]]></title>
-    <link href="http://porkbuns.github.io/blog/2013/06/03/internet-explorer-compatibility-issues/"/>
+    <link href="https://blog.wejoinin.com/2013/06/03/internet-explorer-compatibility-issues/"/>
     <updated>2013-06-03T10:09:00-07:00</updated>
-    <id>http://porkbuns.github.io/blog/2013/06/03/internet-explorer-compatibility-issues</id>
+    <id>https://blog.wejoinin.com/2013/06/03/internet-explorer-compatibility-issues</id>
     <content type="html"><![CDATA[<p>Hey folks,</p>
 
 <p>Some of you have reported issues and errors of not being able to edit your sheets with Internet Explorer &mdash; we&rsquo;re looking into it, but in the meantime we suggest you use one of the later versions of Web browsers such as IE10, Chrome or Firefox. That should get around the editing issues you may be experiencing. Thanks for your patience all!</p>

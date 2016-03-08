@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Server Fun | Wejoinin Blog]]></title>
-  <link href="http://porkbuns.github.io/blog/blog/categories/server-fun/atom.xml" rel="self"/>
-  <link href="http://porkbuns.github.io/blog/"/>
-  <updated>2016-03-07T21:06:48-08:00</updated>
-  <id>http://porkbuns.github.io/blog/</id>
+  <link href="https://blog.wejoinin.com/blog/categories/server-fun/atom.xml" rel="self"/>
+  <link href="https://blog.wejoinin.com/"/>
+  <updated>2016-03-07T21:07:46-08:00</updated>
+  <id>https://blog.wejoinin.com/</id>
   <author>
     <name><![CDATA[Porkbuns Initiative]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Server transition nuts and bolts]]></title>
-    <link href="http://porkbuns.github.io/blog/2010/03/14/server-transition-nuts-and-bolts/"/>
+    <link href="https://blog.wejoinin.com/2010/03/14/server-transition-nuts-and-bolts/"/>
     <updated>2010-03-14T06:03:10-07:00</updated>
-    <id>http://porkbuns.github.io/blog/2010/03/14/server-transition-nuts-and-bolts</id>
+    <id>https://blog.wejoinin.com/2010/03/14/server-transition-nuts-and-bolts</id>
     <content type="html"><![CDATA[<p>When you run a Web app like Wejoinin on minimal VPS resources (read: we&rsquo;re too poor to get a beefy server), it forces you to go lean. We started to realize a year ago that our out-of-the-box Rails and nginx/Mongrel setup was starting to show its age; resource utilization would climb every so often and we&rsquo;d have to kill and restart a Mongrel worker thread. Every so often the site would slow down to a crawl and we&rsquo;d realize <em>oh shoot, we&rsquo;re swapping.</em>Well, with last night&rsquo;s Wejoinin push, we&rsquo;ve upgraded our server environment a few ways:</p>
 
 <ol>
@@ -32,9 +32,9 @@ With all these tweaks, we should be seeing Wejoinin good and rarin' to go. Let u
   
   <entry>
     <title type="html"><![CDATA[Maintenance COMPLETE: Sunday, March 14, 2AM PST]]></title>
-    <link href="http://porkbuns.github.io/blog/2010/03/12/wejoinin-site-maintenance-sunday-march-14-2am-pst/"/>
+    <link href="https://blog.wejoinin.com/2010/03/12/wejoinin-site-maintenance-sunday-march-14-2am-pst/"/>
     <updated>2010-03-12T07:20:16-08:00</updated>
-    <id>http://porkbuns.github.io/blog/2010/03/12/wejoinin-site-maintenance-sunday-march-14-2am-pst</id>
+    <id>https://blog.wejoinin.com/2010/03/12/wejoinin-site-maintenance-sunday-march-14-2am-pst</id>
     <content type="html"><![CDATA[<p><strong>EDIT: We have completed the switch. As always, please let us know if anything is broken!</strong></p>
 
 <p>It&rsquo;s been long in the works, but we are finally going through with our server transition. <a href="http://blog.wejoinin.com/2009/11/10/look-out-site-downtime-scheduled-nov-18-1am-pst/">The last time we planned this out</a>, there were a few server issues at our new host that made us hold off the fix. Things have stabilized recently, and we&rsquo;re going to go ahead and make this happen.</p>

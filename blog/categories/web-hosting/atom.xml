@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Web Hosting | Wejoinin Blog]]></title>
-  <link href="http://porkbuns.github.io/blog/blog/categories/web-hosting/atom.xml" rel="self"/>
-  <link href="http://porkbuns.github.io/blog/"/>
-  <updated>2016-03-07T21:06:48-08:00</updated>
-  <id>http://porkbuns.github.io/blog/</id>
+  <link href="https://blog.wejoinin.com/blog/categories/web-hosting/atom.xml" rel="self"/>
+  <link href="https://blog.wejoinin.com/"/>
+  <updated>2016-03-07T21:07:46-08:00</updated>
+  <id>https://blog.wejoinin.com/</id>
   <author>
     <name><![CDATA[Porkbuns Initiative]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Explaining our 6/19-6/21 downtime]]></title>
-    <link href="http://porkbuns.github.io/blog/2010/06/21/explaining-our-619-621-downtime/"/>
+    <link href="https://blog.wejoinin.com/2010/06/21/explaining-our-619-621-downtime/"/>
     <updated>2010-06-21T01:26:56-07:00</updated>
-    <id>http://porkbuns.github.io/blog/2010/06/21/explaining-our-619-621-downtime</id>
+    <id>https://blog.wejoinin.com/2010/06/21/explaining-our-619-621-downtime</id>
     <content type="html"><![CDATA[<p>Hey folks,</p>
 
 <p>I wanted to personally apologize to you all again for the site downtime we&rsquo;ve experienced this weekend. Our host experienced a perfect storm of denial-of-service attacks and software failures in one of our machines that did not get addressed until early Monday morning. The problem was unfortunately out of our control. We&rsquo;re looking into how we can prevent such scenarios from occurring in the future.</p>

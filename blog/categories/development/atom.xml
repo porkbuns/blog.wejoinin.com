@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Development | Wejoinin Blog]]></title>
-  <link href="http://porkbuns.github.io/blog/blog/categories/development/atom.xml" rel="self"/>
-  <link href="http://porkbuns.github.io/blog/"/>
-  <updated>2016-03-07T21:06:48-08:00</updated>
-  <id>http://porkbuns.github.io/blog/</id>
+  <link href="https://blog.wejoinin.com/blog/categories/development/atom.xml" rel="self"/>
+  <link href="https://blog.wejoinin.com/"/>
+  <updated>2016-03-07T21:07:46-08:00</updated>
+  <id>https://blog.wejoinin.com/</id>
   <author>
     <name><![CDATA[Porkbuns Initiative]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Now With Signup Comments!]]></title>
-    <link href="http://porkbuns.github.io/blog/2009/01/30/now-with-signup-comments/"/>
+    <link href="https://blog.wejoinin.com/2009/01/30/now-with-signup-comments/"/>
     <updated>2009-01-30T17:26:11-08:00</updated>
-    <id>http://porkbuns.github.io/blog/2009/01/30/now-with-signup-comments</id>
+    <id>https://blog.wejoinin.com/2009/01/30/now-with-signup-comments</id>
     <content type="html"><![CDATA[<p>For the longest time people have been wondering &ldquo;how can I add a little info to my signup?&rdquo; Potluck signups want to brag about their world-famous chili, and sometimes you just want to express how <em>pumped</em> you are for the upcoming fundraiser. Look no further: we&rsquo;ve added a comment field to the signup process.</p>
 
 <p><img src="/images/2009-01-31-now-with-signup-comments/wejoinin-now-with-comments.gif" alt="Signup… with a comment!" /></p>
@@ -30,9 +30,9 @@
   
   <entry>
     <title type="html"><![CDATA[New features released this week!]]></title>
-    <link href="http://porkbuns.github.io/blog/2008/11/06/new-features-released-this-week/"/>
+    <link href="https://blog.wejoinin.com/2008/11/06/new-features-released-this-week/"/>
     <updated>2008-11-06T13:20:25-08:00</updated>
-    <id>http://porkbuns.github.io/blog/2008/11/06/new-features-released-this-week</id>
+    <id>https://blog.wejoinin.com/2008/11/06/new-features-released-this-week</id>
     <content type="html"><![CDATA[<p>Hey everyone, I&rsquo;m excited to introduce a couple of new features we&rsquo;ve released this week for you all:</p>
 
 <ul>
@@ -107,16 +107,16 @@
   
   <entry>
     <title type="html"><![CDATA[Thanks for your feedback!]]></title>
-    <link href="http://porkbuns.github.io/blog/2008/09/29/thanks-for-your-feedback/"/>
+    <link href="https://blog.wejoinin.com/2008/09/29/thanks-for-your-feedback/"/>
     <updated>2008-09-29T16:34:28-07:00</updated>
-    <id>http://porkbuns.github.io/blog/2008/09/29/thanks-for-your-feedback</id>
+    <id>https://blog.wejoinin.com/2008/09/29/thanks-for-your-feedback</id>
     <content type="html"><![CDATA[<p>Lately, Hsiu-Fan, Jason and I have been getting lots of emails from our users telling us things from &ldquo;I think your site is awesome!&rdquo; to &ldquo;Something totally broke!&rdquo; We love it!</p>
 
 <p>While it&rsquo;s no secret that fixing broken things is nothing to cheer about, I&rsquo;ve been surprised in the past couple of months at just how much I love having interactions with you all. I love that what we do makes a difference in your lives. I love that you care enough to tell us why something isn&rsquo;t working. Many of you even offer us suggestions to make Wejoinin a little friendlier, and we certainly do take everything into serious consideration.</p>
 
 <p>Hsiu-Fan and I get the warm fuzzies when we get small compliments from &ldquo;this is really useful&rdquo; to big ones like &ldquo;thanks, you guys seriously saved my life!&rdquo; Well, shucks.</p>
 
-<p>This is also to encourage you to email us (<a href="&#x6d;&#97;&#105;&#108;&#116;&#111;&#x3a;&#x61;&#110;&#100;&#x72;&#101;&#119;&#64;&#x77;&#x65;&#106;&#x6f;&#x69;&#110;&#x69;&#110;&#46;&#99;&#111;&#109;">&#97;&#x6e;&#x64;&#114;&#x65;&#119;&#64;&#x77;&#101;&#x6a;&#111;&#x69;&#110;&#105;&#x6e;&#x2e;&#99;&#111;&#x6d;</a> / <a href="&#109;&#x61;&#x69;&#x6c;&#116;&#x6f;&#x3a;&#104;&#115;&#x69;&#117;&#102;&#x61;&#x6e;&#x40;&#x77;&#x65;&#x6a;&#111;&#105;&#110;&#x69;&#110;&#x2e;&#x63;&#x6f;&#x6d;">&#104;&#x73;&#x69;&#x75;&#x66;&#97;&#110;&#x40;&#x77;&#x65;&#106;&#x6f;&#x69;&#x6e;&#105;&#x6e;&#46;&#x63;&#111;&#x6d;</a>) should you find something really wonky or if you&rsquo;re discovering weird behavior on your sheet or if our sheets are being terribly confusing to you (we&rsquo;ll do our best to make them behave).</p>
+<p>This is also to encourage you to email us (<a href="&#109;&#x61;&#105;&#x6c;&#116;&#x6f;&#x3a;&#97;&#x6e;&#100;&#114;&#101;&#119;&#x40;&#119;&#101;&#106;&#x6f;&#105;&#110;&#x69;&#110;&#x2e;&#99;&#111;&#x6d;">&#x61;&#x6e;&#x64;&#x72;&#101;&#119;&#64;&#x77;&#x65;&#x6a;&#111;&#105;&#x6e;&#x69;&#110;&#46;&#x63;&#111;&#x6d;</a> / <a href="&#109;&#x61;&#105;&#x6c;&#x74;&#111;&#58;&#x68;&#x73;&#105;&#117;&#x66;&#97;&#x6e;&#64;&#x77;&#x65;&#106;&#x6f;&#105;&#x6e;&#105;&#x6e;&#x2e;&#99;&#111;&#109;">&#104;&#115;&#105;&#x75;&#102;&#x61;&#x6e;&#x40;&#119;&#101;&#x6a;&#111;&#x69;&#x6e;&#105;&#110;&#x2e;&#x63;&#x6f;&#109;</a>) should you find something really wonky or if you&rsquo;re discovering weird behavior on your sheet or if our sheets are being terribly confusing to you (we&rsquo;ll do our best to make them behave).</p>
 
 <p>Once again, a warm and hearty &ldquo;thanks!&rdquo; from your friends here at Wejoinin,
 -Andrew</p>
@@ -125,9 +125,9 @@
   
   <entry>
     <title type="html"><![CDATA[Fixed Stuff. Things Better.]]></title>
-    <link href="http://porkbuns.github.io/blog/2008/08/24/fixed-stuff-things-better/"/>
+    <link href="https://blog.wejoinin.com/2008/08/24/fixed-stuff-things-better/"/>
     <updated>2008-08-24T18:11:49-07:00</updated>
-    <id>http://porkbuns.github.io/blog/2008/08/24/fixed-stuff-things-better</id>
+    <id>https://blog.wejoinin.com/2008/08/24/fixed-stuff-things-better</id>
     <content type="html"><![CDATA[<p>Andrew always promises cool new things (sometimes soon), but today I want to tell you about cool things that are no longer broken.</p>
 
 <p>For awhile now, editing sheets has been finicky to downright broken in IE. I updated the site a few days ago, after fixing it a week ago and waiting awhile to make sure it really didn&rsquo;t break anything else that was important. There were two things that were broken: deleting headers (that is, rows and columns), and changing the number of signups allowed on a slot.Warning: tech nerdery ahead. Read on for the gritty details.</p>
@@ -145,9 +145,9 @@
   
   <entry>
     <title type="html"><![CDATA[Getting started (again) and getting excited]]></title>
-    <link href="http://porkbuns.github.io/blog/2008/04/21/getting-started-again-and-getting-excited/"/>
+    <link href="https://blog.wejoinin.com/2008/04/21/getting-started-again-and-getting-excited/"/>
     <updated>2008-04-21T10:11:48-07:00</updated>
-    <id>http://porkbuns.github.io/blog/2008/04/21/getting-started-again-and-getting-excited</id>
+    <id>https://blog.wejoinin.com/2008/04/21/getting-started-again-and-getting-excited</id>
     <content type="html"><![CDATA[<p>All&rsquo;s been quiet here among us at Wejoinin for the past couple months or so. Hsiu-Fan and I have been cranking away in our respective classes and haven&rsquo;t quite gotten the time to get in some work on this application.</p>
 
 <p>However, we&rsquo;re <em>really</em> thankful to those of you who use this site and continue to inform us of broken things and give us suggestions and even tell your friends!</p>

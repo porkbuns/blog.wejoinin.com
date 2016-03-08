@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Site News | Wejoinin Blog]]></title>
-  <link href="http://porkbuns.github.io/blog/blog/categories/site-news/atom.xml" rel="self"/>
-  <link href="http://porkbuns.github.io/blog/"/>
-  <updated>2016-03-07T21:06:48-08:00</updated>
-  <id>http://porkbuns.github.io/blog/</id>
+  <link href="https://blog.wejoinin.com/blog/categories/site-news/atom.xml" rel="self"/>
+  <link href="https://blog.wejoinin.com/"/>
+  <updated>2016-03-07T21:07:46-08:00</updated>
+  <id>https://blog.wejoinin.com/</id>
   <author>
     <name><![CDATA[Porkbuns Initiative]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Internet Explorer compatibility issues]]></title>
-    <link href="http://porkbuns.github.io/blog/2013/06/03/internet-explorer-compatibility-issues/"/>
+    <link href="https://blog.wejoinin.com/2013/06/03/internet-explorer-compatibility-issues/"/>
     <updated>2013-06-03T10:09:00-07:00</updated>
-    <id>http://porkbuns.github.io/blog/2013/06/03/internet-explorer-compatibility-issues</id>
+    <id>https://blog.wejoinin.com/2013/06/03/internet-explorer-compatibility-issues</id>
     <content type="html"><![CDATA[<p>Hey folks,</p>
 
 <p>Some of you have reported issues and errors of not being able to edit your sheets with Internet Explorer &mdash; we&rsquo;re looking into it, but in the meantime we suggest you use one of the later versions of Web browsers such as IE10, Chrome or Firefox. That should get around the editing issues you may be experiencing. Thanks for your patience all!</p>
@@ -28,9 +28,9 @@
   
   <entry>
     <title type="html"><![CDATA[Something's afoot]]></title>
-    <link href="http://porkbuns.github.io/blog/2013/05/15/somethings-afoot/"/>
+    <link href="https://blog.wejoinin.com/2013/05/15/somethings-afoot/"/>
     <updated>2013-05-15T09:31:00-07:00</updated>
-    <id>http://porkbuns.github.io/blog/2013/05/15/somethings-afoot</id>
+    <id>https://blog.wejoinin.com/2013/05/15/somethings-afoot</id>
     <content type="html"><![CDATA[<p>Ahoy! Good God&hellip; we haven&rsquo;t updated this blog in three years.</p>
 
 <p>Indeed&hellip; some things are changing here at Wejoinin. You might have noticed that we&rsquo;ve basically been the same app for the past two years or so, and much of that has been because Hsiu-Fan and I have been balancing full-time work and other nifty ninja projects but we do admit that we&rsquo;ve not been as up to snuff about keeping Wejoinin tidy and loved.</p>
@@ -49,9 +49,9 @@
   
   <entry>
     <title type="html"><![CDATA[Explaining our 6/19-6/21 downtime]]></title>
-    <link href="http://porkbuns.github.io/blog/2010/06/21/explaining-our-619-621-downtime/"/>
+    <link href="https://blog.wejoinin.com/2010/06/21/explaining-our-619-621-downtime/"/>
     <updated>2010-06-21T01:26:56-07:00</updated>
-    <id>http://porkbuns.github.io/blog/2010/06/21/explaining-our-619-621-downtime</id>
+    <id>https://blog.wejoinin.com/2010/06/21/explaining-our-619-621-downtime</id>
     <content type="html"><![CDATA[<p>Hey folks,</p>
 
 <p>I wanted to personally apologize to you all again for the site downtime we&rsquo;ve experienced this weekend. Our host experienced a perfect storm of denial-of-service attacks and software failures in one of our machines that did not get addressed until early Monday morning. The problem was unfortunately out of our control. We&rsquo;re looking into how we can prevent such scenarios from occurring in the future.</p>
@@ -64,18 +64,18 @@
   
   <entry>
     <title type="html"><![CDATA[Our apologies -- site down for a bit.]]></title>
-    <link href="http://porkbuns.github.io/blog/2010/04/18/our-apologies-site-down-for-a-bit/"/>
+    <link href="https://blog.wejoinin.com/2010/04/18/our-apologies-site-down-for-a-bit/"/>
     <updated>2010-04-18T13:30:10-07:00</updated>
-    <id>http://porkbuns.github.io/blog/2010/04/18/our-apologies-site-down-for-a-bit</id>
+    <id>https://blog.wejoinin.com/2010/04/18/our-apologies-site-down-for-a-bit</id>
     <content type="html"><![CDATA[<p>Today, April 19 @ 12:02AM GMT, our site went down for a little bit. Turns out we&rsquo;ve exceeded our allotted disk space. As of 3:49AM GMT, the issue has been fixed and Wejoinin should be back to normal now. Let us know if you&rsquo;re finding any issues with your sheets.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Maintenance COMPLETE: Sunday, March 14, 2AM PST]]></title>
-    <link href="http://porkbuns.github.io/blog/2010/03/12/wejoinin-site-maintenance-sunday-march-14-2am-pst/"/>
+    <link href="https://blog.wejoinin.com/2010/03/12/wejoinin-site-maintenance-sunday-march-14-2am-pst/"/>
     <updated>2010-03-12T07:20:16-08:00</updated>
-    <id>http://porkbuns.github.io/blog/2010/03/12/wejoinin-site-maintenance-sunday-march-14-2am-pst</id>
+    <id>https://blog.wejoinin.com/2010/03/12/wejoinin-site-maintenance-sunday-march-14-2am-pst</id>
     <content type="html"><![CDATA[<p><strong>EDIT: We have completed the switch. As always, please let us know if anything is broken!</strong></p>
 
 <p>It&rsquo;s been long in the works, but we are finally going through with our server transition. <a href="http://blog.wejoinin.com/2009/11/10/look-out-site-downtime-scheduled-nov-18-1am-pst/">The last time we planned this out</a>, there were a few server issues at our new host that made us hold off the fix. Things have stabilized recently, and we&rsquo;re going to go ahead and make this happen.</p>
